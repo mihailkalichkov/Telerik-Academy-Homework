@@ -1,0 +1,9 @@
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\bin\Debug\Task1.exe.config
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\bin\Debug\Task1.exe
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\bin\Debug\Task1.pdb
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\obj\Debug\Task1.exe
+C:\Telerik\OOP\Domashni\Domashno4-OOP Principles 1\Task1\obj\Debug\Task1.pdb
+C:\Telerik\OOP\Domashni\Domashno5-OOP Principles 1\Task1\bin\Debug\Task1.exe.config
+C:\Telerik\OOP\Domashni\Domashno5-OOP Principles 1\Task1\obj\Debug\Task1.exe
+C:\Telerik\OOP\Domashni\Domashno5-OOP Principles 1\Task1\obj\Debug\Task1.pdb

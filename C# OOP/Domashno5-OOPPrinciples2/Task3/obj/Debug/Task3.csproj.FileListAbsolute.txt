@@ -1,0 +1,5 @@
+C:\Telerik\OOP\Domashni\Domashno5-OOPPrinciples2\Task3\bin\Debug\Task3.exe.config
+C:\Telerik\OOP\Domashni\Domashno5-OOPPrinciples2\Task3\bin\Debug\Task3.exe
+C:\Telerik\OOP\Domashni\Domashno5-OOPPrinciples2\Task3\bin\Debug\Task3.pdb
+C:\Telerik\OOP\Domashni\Domashno5-OOPPrinciples2\Task3\obj\Debug\Task3.exe
+C:\Telerik\OOP\Domashni\Domashno5-OOPPrinciples2\Task3\obj\Debug\Task3.pdb

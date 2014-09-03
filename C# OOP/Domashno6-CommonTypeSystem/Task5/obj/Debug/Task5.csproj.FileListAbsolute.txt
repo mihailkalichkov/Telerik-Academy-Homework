@@ -1,0 +1,8 @@
+C:\Telerik\OOP\Domashni\Domashno5-CommonTypeSystem\Task5\bin\Debug\Task5.exe.config
+C:\Telerik\OOP\Domashni\Domashno5-CommonTypeSystem\Task5\bin\Debug\Task5.exe
+C:\Telerik\OOP\Domashni\Domashno5-CommonTypeSystem\Task5\bin\Debug\Task5.pdb
+C:\Telerik\OOP\Domashni\Domashno5-CommonTypeSystem\Task5\obj\Debug\Task5.exe
+C:\Telerik\OOP\Domashni\Domashno5-CommonTypeSystem\Task5\obj\Debug\Task5.pdb
+C:\Telerik\OOP\Domashni\Domashno7-CommonTypeSystem\Task5\bin\Debug\Task5.exe.config
+C:\Telerik\OOP\Domashni\Domashno7-CommonTypeSystem\Task5\obj\Debug\Task5.exe
+C:\Telerik\OOP\Domashni\Domashno7-CommonTypeSystem\Task5\obj\Debug\Task5.pdb

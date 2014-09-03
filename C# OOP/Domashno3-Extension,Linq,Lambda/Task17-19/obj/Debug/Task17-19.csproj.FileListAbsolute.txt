@@ -1,0 +1,8 @@
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task17-19\bin\Debug\Task17-19.exe.config
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task17-19\bin\Debug\Task17-19.exe
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task17-19\bin\Debug\Task17-19.pdb
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task17-19\obj\Debug\Task17-19.exe
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task17-19\obj\Debug\Task17-19.pdb
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task17-19\bin\Debug\Task17-19.exe.config
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task17-19\obj\Debug\Task17-19.exe
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task17-19\obj\Debug\Task17-19.pdb

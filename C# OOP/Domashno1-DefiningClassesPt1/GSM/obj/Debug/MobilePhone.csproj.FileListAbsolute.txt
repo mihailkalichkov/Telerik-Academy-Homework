@@ -1,0 +1,5 @@
+C:\Telerik\OOP\Domashni\Domashno1-DefiningClassesPt1\GSM\bin\Debug\GSM.exe.config
+C:\Telerik\OOP\Domashni\Domashno1-DefiningClassesPt1\GSM\bin\Debug\GSM.exe
+C:\Telerik\OOP\Domashni\Domashno1-DefiningClassesPt1\GSM\bin\Debug\GSM.pdb
+C:\Telerik\OOP\Domashni\Domashno1-DefiningClassesPt1\GSM\obj\Debug\GSM.exe
+C:\Telerik\OOP\Domashni\Domashno1-DefiningClassesPt1\GSM\obj\Debug\GSM.pdb

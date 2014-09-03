@@ -1,0 +1,6 @@
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\bin\Debug\Homework2.exe.config
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\bin\Debug\Homework2.exe
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\bin\Debug\Homework2.pdb
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\obj\Debug\Homework2.exe
+C:\Telerik\OOP\Domashni\Domashno2-DefiningClassesPt2\Homework2\obj\Debug\Homework2.pdb

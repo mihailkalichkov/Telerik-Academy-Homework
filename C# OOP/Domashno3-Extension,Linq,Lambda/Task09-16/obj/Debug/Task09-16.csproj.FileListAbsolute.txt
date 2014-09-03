@@ -1,0 +1,9 @@
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\bin\Debug\Task09-16.exe.config
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\bin\Debug\Task09-16.exe
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\bin\Debug\Task09-16.pdb
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\obj\Debug\Task09-16.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\obj\Debug\Task09-16.exe
+C:\Telerik\OOP\Domashni\Domashno3-Extension,Linq,Lambda\Task09-16\obj\Debug\Task09-16.pdb
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task09-16\bin\Debug\Task09-16.exe.config
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task09-16\obj\Debug\Task09-16.exe
+C:\Telerik\OOP\Domashni\Domashno4-Extension,Linq,Lambda\Task09-16\obj\Debug\Task09-16.pdb
