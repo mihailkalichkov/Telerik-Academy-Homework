@@ -1,7 +1,0 @@
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\bin\Debug\TestSchool.dll
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\bin\Debug\TestSchool.pdb
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\bin\Debug\School.dll
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\bin\Debug\School.pdb
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\obj\Debug\TestSchool.csprojResolveAssemblyReference.cache
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\obj\Debug\TestSchool.dll
-C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\TestSchool\obj\Debug\TestSchool.pdb
