@@ -1,0 +1,12 @@
+img {
+  width: 100px; }
+
+body > img {
+  display: none; }
+
+input[type=radio] {
+  display: none; }
+  input[type=radio]:checked + img {
+    width: 300px;
+    display: block;
+    position: absolute; }

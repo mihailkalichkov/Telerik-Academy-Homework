@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+body 
+{
+background-color: #4A4A4A;
+}
+th 
+{
+    text-align: left;
+    font-size: 22px;
+    color: grey;
+}
+td.main 
+{
+    color: #EFEEEE;
+    font-style: italic;
+    padding-right: 15px;
+}
+span.circle
+{
+   border-radius: 50%;
+    width: 2px;
+    height: 2px;
+    background-color: #71b47a;
+}
+span.alert
+{
+    
+    color: red;
+}
+td
+{
+padding: 6px;
+}
+a
+{
+	color: grey;
+}
+td.resp
+{
+	color: lightgrey; 
+}
+td.status
+{
+	color: orange;
+}
+span.name
+{
+  padding=left: 10px;
+}

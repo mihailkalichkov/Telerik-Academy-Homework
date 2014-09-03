@@ -1,0 +1,16 @@
+body ul {
+  list-style: none;
+  margin: 0;
+  padding: 0; }
+  body ul li a {
+    text-decoration: none; }
+  body ul li li {
+    display: none; }
+  body ul li:hover li {
+    display: block;
+    text-decoration: none;
+    opacity: 0.4;
+    padding-left: 10px; }
+  body ul a:hover {
+    text-decoration: underline; }
+

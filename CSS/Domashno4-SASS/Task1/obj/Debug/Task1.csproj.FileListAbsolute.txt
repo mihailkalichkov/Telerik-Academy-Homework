@@ -1,0 +1,6 @@
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\bin\Task1.dll.config
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\bin\Task1.dll
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\bin\Task1.pdb
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\obj\Debug\Task1.dll
+C:\Telerik\css\domashni\Domashno4-SASS\Task1\obj\Debug\Task1.pdb

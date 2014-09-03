@@ -1,0 +1,46 @@
+table
+{
+    border-collapse:collapse;
+    border: 1px solid #ccc;
+    font-family: Arial;
+    font-size: 12px;
+}
+thead
+{
+	background: #5ec306;
+	color:#fff; 
+}
+td
+{
+    padding: 7px;
+    border: 1px solid #b5b5b5;
+}
+.firstCol, .secondCol, .thirdCol
+{
+    width: 150px;
+}
+table tr:nth-child(2n)
+{
+    background-color: #EEEECD;
+}
+td.country
+{
+    padding-left: 3px;
+}
+td.country.germany
+{
+    
+}
+td.country.mexico
+{
+   
+}
+td.country.uk
+{
+    
+}
+img 
+{
+    padding-right: 8px;
+    vertical-align: bottom;
+}

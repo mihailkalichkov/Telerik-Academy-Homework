@@ -1,0 +1,12 @@
+C:\Telerik\OOP\Domashni\Domashno3\Task2\bin\Task2.dll.config
+C:\Telerik\OOP\Domashni\Domashno3\Task2\bin\Task2.dll
+C:\Telerik\OOP\Domashni\Domashno3\Task2\bin\Task2.pdb
+C:\Telerik\OOP\Domashni\Domashno3\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Domashni\Domashno3\Task2\obj\Debug\Task2.dll
+C:\Telerik\OOP\Domashni\Domashno3\Task2\obj\Debug\Task2.pdb
+C:\Telerik\css\domashni\Domashno3\Task2\bin\Task2.dll.config
+C:\Telerik\css\domashni\Domashno3\Task2\bin\Task2.dll
+C:\Telerik\css\domashni\Domashno3\Task2\bin\Task2.pdb
+C:\Telerik\css\domashni\Domashno3\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+C:\Telerik\css\domashni\Domashno3\Task2\obj\Debug\Task2.dll
+C:\Telerik\css\domashni\Domashno3\Task2\obj\Debug\Task2.pdb
