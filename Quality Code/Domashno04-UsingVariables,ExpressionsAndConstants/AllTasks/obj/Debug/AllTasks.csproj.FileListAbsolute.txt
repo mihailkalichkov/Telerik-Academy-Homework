@@ -1,0 +1,5 @@
+C:\Telerik\OneBits\Domashno04-UsingVariables,ExpressionsAndConstants\AllTasks\bin\Debug\AllTasks.dll
+C:\Telerik\OneBits\Domashno04-UsingVariables,ExpressionsAndConstants\AllTasks\bin\Debug\AllTasks.pdb
+C:\Telerik\OneBits\Domashno04-UsingVariables,ExpressionsAndConstants\AllTasks\obj\Debug\AllTasks.csprojResolveAssemblyReference.cache
+C:\Telerik\OneBits\Domashno04-UsingVariables,ExpressionsAndConstants\AllTasks\obj\Debug\AllTasks.dll
+C:\Telerik\OneBits\Domashno04-UsingVariables,ExpressionsAndConstants\AllTasks\obj\Debug\AllTasks.pdb

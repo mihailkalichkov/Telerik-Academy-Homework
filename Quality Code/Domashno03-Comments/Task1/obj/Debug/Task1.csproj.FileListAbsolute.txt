@@ -1,0 +1,2 @@
+C:\Telerik\JS1\examprep\JavaScript - 1 April 2013 - Evening\Domashno03-Comments\Task1\bin\Debug\Task1.exe.config
+C:\Telerik\Quality Code\Domashni\Domashno03-Comments\Task1\bin\Debug\Task1.exe.config

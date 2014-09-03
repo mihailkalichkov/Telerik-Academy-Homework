@@ -1,0 +1,12 @@
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\bin\Debug\SolarSystem.exe
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\bin\Debug\SolarSystem.pdb
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem.csprojResolveAssemblyReference.cache
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\MainWindow.g.cs
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\App.g.cs
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem_MarkupCompile.cache
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem_MarkupCompile.lref
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\MainWindow.baml
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem.g.resources
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem.exe
+C:\Telerik\Quality Code\Domashni\Domashno09-CodeOprimization\obj\Debug\SolarSystem.pdb

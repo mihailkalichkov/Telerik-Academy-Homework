@@ -1,0 +1,5 @@
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb

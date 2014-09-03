@@ -1,0 +1,6 @@
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\bin\Debug\Abstraction.exe.config
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\bin\Debug\Abstraction.exe
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\bin\Debug\Abstraction.pdb
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\obj\Debug\Abstraction.csprojResolveAssemblyReference.cache
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\obj\Debug\Abstraction.exe
+C:\Telerik\Quality Code\Domashni\Domashno07-HighQualityClasses\Abstraction\obj\Debug\Abstraction.pdb

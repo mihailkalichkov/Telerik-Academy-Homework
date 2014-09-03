@@ -1,0 +1,6 @@
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\bin\Debug\AllTasks.exe.config
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\bin\Debug\AllTasks.exe
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\bin\Debug\AllTasks.pdb
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\obj\Debug\AllTasks.csprojResolveAssemblyReference.cache
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\obj\Debug\AllTasks.exe
+C:\Telerik\Quality Code\Domashni\Domashno06-HighQualityMethods\AllTasks\obj\Debug\AllTasks.pdb

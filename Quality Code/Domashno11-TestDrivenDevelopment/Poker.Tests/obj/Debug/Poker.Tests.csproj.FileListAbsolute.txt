@@ -1,0 +1,14 @@
+C:\Telerik\Quality Code\Domashni\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Telerik\Quality Code\Domashni\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Telerik\Quality Code\Domashni\Poker.Tests\bin\Debug\Poker.exe
+C:\Telerik\Quality Code\Domashni\Poker.Tests\bin\Debug\Poker.pdb
+C:\Telerik\Quality Code\Domashni\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Telerik\Quality Code\Domashni\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Telerik\Quality Code\Domashni\Poker.Tests\obj\Debug\Poker.Tests.pdb
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.exe
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.pdb
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Telerik\Quality Code\Domashni\Domashno11-TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.pdb

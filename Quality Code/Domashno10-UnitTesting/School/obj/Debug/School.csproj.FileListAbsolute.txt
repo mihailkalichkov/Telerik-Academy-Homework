@@ -1,0 +1,5 @@
+C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\School\bin\Debug\School.dll
+C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\School\bin\Debug\School.pdb
+C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\School\obj\Debug\School.dll
+C:\Telerik\JS UI & DOM\Domashno10-UnitTesting\School\obj\Debug\School.pdb
