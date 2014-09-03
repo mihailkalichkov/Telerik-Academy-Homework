@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="PrintArray()">Initialize array</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function PrintArray() {
+            var arr = new Array(20);
+            var i;
+            for (i = 0; i < arr.length; i++) {
+                arr[i] = (i * 5);
+                jsConsole.writeLine(arr[i]);
+            }
+        }
+    </script>
+</body>
+</html>

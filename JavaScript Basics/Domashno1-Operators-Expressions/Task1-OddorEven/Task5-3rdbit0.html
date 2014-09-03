@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter integer number: </label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div id="inputbutton">
+            <a href="#" onclick="isThirdBit0()">Bit 3 is 0</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function isThirdBit0() {
+            var number = jsConsole.readInteger("#tb-first");
+            var p = 3;
+            var mask = 1 << p;
+            var result = number & mask;
+            var bit = result >> p;
+            var thirdBitis0 = false;
+            if (bit==0) {
+                thirdBitis0 = true;               
+            }
+            jsConsole.writeLine(number + " in binary is " + number.toString(2));
+            jsConsole.writeLine("bit 3 is 0 ->" + thirdBitis0);
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter a number:</label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="NumberReverser()">Reverse number</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function NumberReverser() {
+            var number = jsConsole.readFloat("#tb-first")
+            var text = "";
+            var numStr = number.toString();
+
+            if (number < 0) {
+                for (counter = numStr.length-1; counter > 0; counter--) {
+                    text += numStr[counter];
+                }
+                text = "-" + text;
+            }
+            else {
+                for (counter = numStr.length - 1; counter >= 0; counter--) {
+                    text += numStr[counter];
+                }
+            }
+            jsConsole.writeLine(text)
+        }
+    </script>
+</body>
+</html>

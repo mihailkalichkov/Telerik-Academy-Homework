@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter number</label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="NumberName()">Display Name</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function DigitConvertion(number) {
+            var digit = "";
+            switch (number) {
+                case 1: digit = " one"; break;
+                case 2: digit = " two"; break;
+                case 3: digit = " three"; break;
+                case 4: digit = " four"; break;
+                case 5: digit = " five"; break;
+                case 6: digit = " six"; break;
+                case 7: digit = " seven"; break;
+                case 8: digit = " eight"; break;
+                case 9: digit = " nine"; break;
+                case 10: digit = " ten"; break;
+            }
+            return digit;
+        }
+        function NumberName() {
+            var number = jsConsole.readInteger("#tb-first")
+            var ones = 0;
+            var tens = 0;
+            var hundreds=0;
+
+            ones = number % 10;
+            tens = parseInt(number / 10) % 10;
+            hundreds = parseInt(number / 100) % 10;
+
+            if (number == 0) {
+                jsConsole.writeLine("Zero");
+            }
+            if (hundreds != 0) {
+                jsConsole.write(DigitConvertion(hundreds) + " hundred ");
+            }
+            if (tens != 0) {
+
+                if (tens == 1) {
+
+                    if (hundreds != 0) {
+
+                        jsConsole.write("and");
+                    }
+                    switch (ones) {
+                        
+                        case 0: jsConsole.write(" ten"); break;
+                        case 1: jsConsole.write(" eleven"); break;
+                        case 2: jsConsole.write(" twelve"); break;
+                        case 3: jsConsole.write(" thirteen"); break;
+                        case 5: jsConsole.write(" fifteen"); break;
+                        case 8: jsConsole.write(" eighteen"); break;
+                        default: jsConsole.write(DigitConvertion(ones) + "teen"); break;
+                    }
+                }
+                else if (tens == 2) {
+                    jsConsole.write("twenty ");
+                }
+                else if (tens == 3) {
+                    jsConsole.write("thirty ");
+                }
+                else if (tens == 5) {
+                    jsConsole.write("fifty ")
+                }
+                else if (tens == 8) {
+                    jsConsole.write("ëighty ")
+                }
+                else {
+                    jsConsole.write(DigitConvertion(tens)+"ty ")
+                }
+                
+            }
+            if (ones != 0 && tens != 1) {
+                if (hundreds != 0 && tens == 0) {
+                    jsConsole.write("and ");
+                }
+                jsConsole.write(DigitConvertion(ones));
+            }
+            jsConsole.writeLine("")
+        }
+
+    </script>
+</body>
+</html>

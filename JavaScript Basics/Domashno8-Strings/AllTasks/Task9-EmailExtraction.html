@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        EmailExtraction();
+
+       function  EmailExtraction() {
+           var text = "Please contact us by phone (+359 222 222 222) or by email at exa_mple@abv.bg or baj.ivan@yahoo.co.uk or at baj-ivan@gmail.com. ";
+
+            jsConsole.writeLine(text);
+
+            var emailArr = [];
+            var index = text.indexOf("@");
+            while (index > -1) {
+                if (text[index - 1] != " " && text[index + 1] != " ") {
+                    var identifier = text.substring(text.lastIndexOf(" ", index - 1), index);
+                    var host = text.substring(index + 1, text.indexOf(".", index + 1));
+                    var domain = text.substring(text.indexOf(".", index + 1) + 1, text.indexOf(" ", text.indexOf(".", index + 1) + 1));
+                    var email = identifier + "@" + host + "." + domain;//it's not working slow for 5 elements
+                    emailArr.push(email);
+                    index = text.indexOf("@", index + 1);
+                }
+            }
+            for (var email in emailArr) {
+                jsConsole.writeLine(emailArr[email]);
+            }
+        }
+
+
+        </script>
+        </body>
+        </html>

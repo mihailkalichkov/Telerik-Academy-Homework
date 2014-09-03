@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        ExtractPalindromes();
+
+        function ExtractPalindromes() {
+            var text = "Palindromes are words that are the same if you read them forwards or backwards. Such wordsare exe, ABBA, lamal and my personal favourite azobi4amma4iboza";
+            
+            text = text.toLowerCase();
+            text = text.replace(".", " ").replace("!", " ").replace("?", " ").replace(",", " ");
+            var wordsArr = text.split(" ");
+            var word = "";
+
+            for (var index = 0; index < wordsArr.length; index++) {
+                word = wordsArr[index];
+                for (var i = 0; i < parseInt(word.length / 2) ; i++) {
+                    if (word[i] == word[word.length - 1 - i]) {
+                        isPalindrome = true;
+                    }
+                    else {
+                        isPalindrome = false;
+                    }
+                }
+                if (isPalindrome && word.length > 1) {
+                    jsConsole.writeLine(word);
+                }
+
+
+
+            }
+        }
+
+
+    </script>
+</body>
+</html>

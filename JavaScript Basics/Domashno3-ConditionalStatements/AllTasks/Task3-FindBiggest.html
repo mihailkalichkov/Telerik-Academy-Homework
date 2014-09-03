@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter first number</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter second number</label>
+            <input type="text" id="tb-second" />
+            <label for="tb-third">Enter third number</label>
+            <input type="text" id="tb-third" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindBiggest()">Find Biggest</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindBiggest() {
+            var first = jsConsole.readFloat("#tb-first")
+            var second = jsConsole.readFloat("#tb-second")
+            var third = jsConsole.readFloat("#tb-third")
+            var biggest
+
+            if (first>second) {
+                if (first>third) {
+                    biggest=first
+                }
+                else {
+                    biggest=third
+                }
+            }
+            else {
+                if (second>third) {
+                    biggest=second
+                }
+                else {
+                    biggest=third
+                }
+            }
+            jsConsole.writeLine("The biggest is " + biggest)
+        }
+    </script>
+</body>
+</html>

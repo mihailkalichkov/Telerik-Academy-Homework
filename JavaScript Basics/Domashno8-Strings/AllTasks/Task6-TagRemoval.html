@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        RemoveTags()
+        function RemoveTags() {
+            var input ="<html><head><title>Sample site</title></head><body><div>text<div>more text</div>and more...</div>in body</body></html>";
+            var extractedText = "";
+            var openingBracket = "<";
+            var closingBracket = ">";
+            var start, end;
+
+            for (var i = 0; i < input.length; i++) {
+
+                if (input[i] == closingBracket && input[i+1] != openingBracket) {
+                    start = i;
+
+                    for (var k = start + 1; k < input.length; k++) {
+                        if (input[k] == openingBracket) {
+                            end = k;
+                            extractedText += input.substr(start + 1, end - start - 1)
+                            i = end;
+                            break;
+                        }
+                    }
+                }
+            }
+
+            jsConsole.writeLine(extractedText)
+        }
+    </script>
+</body>
+</html>

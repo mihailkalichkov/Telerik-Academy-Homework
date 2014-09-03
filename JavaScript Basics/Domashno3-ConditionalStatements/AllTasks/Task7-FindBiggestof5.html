@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter first number</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter second number</label>
+            <input type="text" id="tb-second" />
+            <label for="tb-third">Enter third number</label>
+            <input type="text" id="tb-third" />           
+        </div>
+        <div class="input">
+            <label for="tb-four">Enter fourth number</label>
+            <input type="text" id="tb-four" />
+            <label for="tb-five">Enter fifth number</label>
+            <input type="text" id="tb-five" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindBiggest()">Find Biggest</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindBiggest() {
+            var arr = new Array(5)
+            arr[0] = jsConsole.readFloat("#tb-first")
+            arr[1] = jsConsole.readFloat("#tb-second")
+            arr[2] = jsConsole.readFloat("#tb-third")
+            arr[3] = jsConsole.readFloat("#tb-four")
+            arr[4] = jsConsole.readFloat("#tb-five")
+            var biggest = arr[0]
+            for (var i = 0; i < arr.length; i++) {
+                if (biggest < arr[i]) {
+                    biggest = arr[i];
+                }
+            }
+            jsConsole.writeLine("The biggest number is : " + biggest)
+        }
+    </script>
+</body>
+</html>

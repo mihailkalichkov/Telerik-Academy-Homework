@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="FindMostFrequent()">Find Most Frequent</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindMostFrequent() {
+            var arr = [4, 1, 1, 4, 2, 3, 4, 4, 1, 2, 4, 9, 3]
+            var maxSequence = 0;
+            var number = arr[0];
+
+            for (var i = 0; i < arr.length; i++) {
+                var currentSequence = 0
+                for (var j = 0; j < arr.length; j++) {
+                    if (arr[i] === arr[j]) {
+                        currentSequence++;
+                    }
+                }
+                if (currentSequence > maxSequence) {
+                    maxSequence = currentSequence;
+                    number = arr[i];
+                }
+            }
+            jsConsole.writeLine(number+ "("+ maxSequence + " times)")
+        }
+    </script>
+</body>
+</html>

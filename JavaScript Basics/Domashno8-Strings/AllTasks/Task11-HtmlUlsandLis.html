@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>11. String format</title>
+</head>
+<body>
+    <div data-type="template" id="list-item">
+        <strong>-{name}-</strong> <span>-{age}-</span>
+    </div>
+    <a href="#" onclick="onBtnClick()">Create!</a>
+    <div id="display"></div>
+    <script>
+        function onBtnClick() {
+
+            var people = [
+                { name: "Pesho", age: 20 },
+                { name: "Gosho", age: 55 },
+                { name: "Joro", age: 21 },
+            ];
+            var template = document.getElementById("list-item").innerHTML.valueOf();
+            var peopleList = generateList(people, template);
+            document.getElementById("display").innerHTML = peopleList;
+        }
+        function generateList(ppl, tmpl) {
+            var i;
+            var list = "<ul>";
+            for (i = 0; i < ppl.length; i++) {
+                list += "<li>";
+                list += tmpl.replace("-{name}-", ppl[i]["name"]);
+                list = list.replace("-{age}-", ppl[i]["age"]);
+                list += "</li>";
+            }
+            list += "</ul>";
+            return list;
+        }
+    </script>
+</body>
+</html>

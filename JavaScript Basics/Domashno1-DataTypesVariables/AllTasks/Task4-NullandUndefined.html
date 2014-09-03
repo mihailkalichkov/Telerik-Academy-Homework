@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div id="inputbutton">
+            <a href="#" onclick="NullandUndefined()">Null and undefined</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function NullandUndefined() {
+            var undefinedVariable;
+            var nullVariable = null
+
+            jsConsole.writeLine(typeof undefinedVariable)
+            jsConsole.writeLine(typeof nullVariable)
+        
+        }
+    </script>
+</body>
+</html>

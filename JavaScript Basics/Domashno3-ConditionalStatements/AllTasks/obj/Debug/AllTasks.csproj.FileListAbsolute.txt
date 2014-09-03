@@ -1,0 +1,6 @@
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\bin\AllTasks.dll.config
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\bin\AllTasks.dll
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\bin\AllTasks.pdb
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\obj\Debug\AllTasks.csprojResolveAssemblyReference.cache
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\obj\Debug\AllTasks.dll
+C:\Telerik\JS1\Domashni\Domashno3-ConditionalStatements\AllTasks\obj\Debug\AllTasks.pdb

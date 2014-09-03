@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        (function () {
+            MaxMinProperty(document);
+            MaxMinProperty(window);
+            MaxMinProperty(navigator);
+        })()
+
+        function MaxMinProperty(object) {
+            var stop = false;
+            var min = "z";
+            var max = "a";
+
+            for (var property in object) {
+
+                if (min > property) {
+                    min = property
+                }
+
+                if (max < property) {
+                    max = property;
+                }
+
+            }
+            jsConsole.writeLine(object + " Min = " + min + ", Max= " + max)
+        }
+    </script>
+</body>
+</html>

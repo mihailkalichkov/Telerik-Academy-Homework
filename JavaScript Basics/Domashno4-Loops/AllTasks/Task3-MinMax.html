@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter a sequence of numbers separated by spaces</label>
+           
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="minMax()">Min and Max</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function orderBy(a, b) {
+            return (a == b) ? 0 : (a > b) ? 1 : -1;
+        };
+        function minMax() {
+            var arr = [5, 4, 23, 2];
+
+            arr.sort(orderBy)
+            jsConsole.writeLine("Min="+ arr[0]+ " , Max=" + arr[arr.length-1])
+        }
+    </script>
+</body>
+</html>

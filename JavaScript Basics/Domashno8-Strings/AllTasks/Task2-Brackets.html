@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        var correct = "((a+b)/5-d)";
+        var incorrect = ")(a+b))"
+        jsConsole.writeLine("((a+b)/5-d) - brackets are corectly placed: " + CheckBrackets(correct))
+        jsConsole.writeLine(")(a+b)) - brackets are corectly placed: " + CheckBrackets(incorrect))
+
+        function CheckBrackets(inputString) {
+            var openingBracket = "(";
+            var closingBracket = ")";
+            var bracketCount=0;
+
+            for (var i = 0; i < inputString.length; i++) {
+              
+                    if (inputString[i] == openingBracket) {
+                        bracketCount++;
+                    }
+
+                    if (inputString[i] == closingBracket) {
+                        bracketCount--;
+                    }
+            
+                    if (bracketCount<0) {
+                        return false;
+                    }
+            }
+            if (bracketCount == 0) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

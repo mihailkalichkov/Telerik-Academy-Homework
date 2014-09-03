@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter first number</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter second number</label>
+            <input type="text" id="tb-second" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindBigger()">Find Bigger</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindBigger() {
+            var first = jsConsole.readFloat("#tb-first")
+            var second = jsConsole.readFloat("#tb-second")
+            var interim;
+            if (first>second)
+            {
+                interim = first;
+                first = second;
+                second = interim;
+            }
+            jsConsole.writeLine("The bigger one is " + second);
+        }
+    </script>
+</body>
+</html>

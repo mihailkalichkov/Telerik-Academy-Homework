@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter number: </label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div id="inputbutton">
+            <a href="#" onclick="isThirdDigit7()">Is the third digit 7</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function isThirdDigit7() {
+            var number = jsConsole.readFloat("#tb-first");
+            var thirdDigit7 = false;
+            var interim = parseInt(number / 100);
+            if (interim % 10 == 7) {
+                thirdDigit7 = true
+            }
+            jsConsole.writeLine(thirdDigit7);
+        }
+
+
+
+    </script>
+</body>
+</html>

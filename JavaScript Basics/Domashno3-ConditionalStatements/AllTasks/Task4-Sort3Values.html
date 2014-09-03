@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter first number</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter second number</label>
+            <input type="text" id="tb-second" />
+            <label for="tb-third">Enter third number</label>
+            <input type="text" id="tb-third" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="Descending()">Descending order</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function Descending() {
+            var first = jsConsole.readFloat("#tb-first")
+            var second = jsConsole.readFloat("#tb-second")
+            var third = jsConsole.readFloat("#tb-third")
+            var interim
+
+            for (var i = 0; i < 2; i++) {
+
+                if (first < second) {
+
+                    interim = second
+                    second = first
+                    first = interim
+
+                    if (first < third) {
+                        interim = third
+                        third = first
+                        first=interim
+                    }
+                }
+                else {
+                    if (second < third) {
+                        interim = third
+                        third = second
+                        second=interim
+                    }
+              
+                }
+            }
+            jsConsole.writeLine(first + " "+ second + " " + third )
+        }
+    </script>
+</body>
+</html>

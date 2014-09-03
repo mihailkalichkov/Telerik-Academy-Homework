@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+    <div class="input">
+        <label for="tb-first">Enter X coordinates: </label>
+        <input type="text" id="tb-first" />
+        <label for="tb-second">Enter Y coordinates: </label>
+        <input type="text" id="tb-second" />
+    </div>
+    <div id="inputbutton">
+        <a href="#" onclick="PointinCircleCheck()">Is point in circle</a>
+    </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function PointinCircleCheck() {
+            var rad = 5;
+            var x = jsConsole.readFloat("#tb-first");
+            var y = jsConsole.readFloat("#tb-second");
+
+            if ((x*x+y*y)<rad*rad)
+            {
+                jsConsole.writeLine("Point (" + x +"," +y +") is in circle K(0,5)");
+            }
+            else {
+                jsConsole.writeLine("Point (" + x + "," + y + ") is NOT in circle K(0,5)");
+            }
+        }
+    </script>
+</body>
+</html>

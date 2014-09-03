@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div id="inputbutton">
+            <a href="#" onclick="Typeof()">Typeof</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function Typeof() {
+            var booleanVariable = false;
+            var floatVariable = -21.54;
+            var integerVariable = 5;
+            var objectVariable = new Object();
+            objectVariable.Name = "Pesho"
+            var stringVariable = "Meshana skara"
+
+            jsConsole.writeLine(typeof booleanVariable)
+            jsConsole.writeLine(typeof floatVariable)
+            jsConsole.writeLine(typeof integerVariable)
+            jsConsole.writeLine(typeof objectVariable)
+            jsConsole.writeLine(typeof stringVariable)
+        }
+    </script>
+</body>
+</html>

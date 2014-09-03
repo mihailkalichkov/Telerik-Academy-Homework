@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter an integer:</label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div>
+            Given array is: [5, 5, 4, 7, 9, 44, 9, 6, 6, 55, 4, 8, 7, 56, 1, 9, 6, 4]
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindOccurence()">The number can be found:</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindOccurence() {
+            var arr = [5, 5, 4, 7, 9, 44, 9, 6, 6, 55, 4, 8, 7, 56, 1, 9, 6, 4]
+            var number = jsConsole.readFloat("#tb-first")
+            var  count=0;
+
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i] === number) {
+                    count++;
+                }
+            }
+            jsConsole.writeLine(count + " times")
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="FindSequence()">Find sequence</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindSequence() {
+            var arr = [3,2,3,4,2,2,4]
+            var len = 1;
+            var bestLen = 1;
+            for (var i = 0; i < arr.length; i++) {
+                if (arr[i] > arr[i - 1]) {
+                    len++;
+                }
+                else {
+                    len = 1;
+                }
+                if (len > bestLen) {
+                    bestLen = len;
+                    var bestSequencestart = i - bestLen+1;
+                }
+                
+            }
+            var sequence = new Array(bestLen);
+            for (var j = 0; j < bestLen; j++) {
+                sequence[i] = arr[bestSequencestart+j]
+                jsConsole.write(sequence[i])
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div id="inputbutton">
+            <a href="#" onclick="AssignLiterals()">Display Literals</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function AssignLiterals() {
+            var booleanVariable = false;
+            var floatVariable = -21.54;
+            var integerVariable = 5;
+            var objectVariable = new Object();
+            objectVariable.Name = "Pesho"
+            var stringVariable = "Meshana skara"
+
+            jsConsole.writeLine(booleanVariable)
+            jsConsole.writeLine(floatVariable)
+            jsConsole.writeLine(integerVariable)
+            jsConsole.writeLine(objectVariable.Name)
+            jsConsole.writeLine(stringVariable)
+        }
+    </script>
+</body>
+</html>

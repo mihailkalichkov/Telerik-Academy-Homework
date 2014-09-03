@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter first number</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter second number</label>
+            <input type="text" id="tb-second" />
+            <label for="tb-third">Enter third number</label>
+            <input type="text" id="tb-third" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindSign()">Find Sign</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindSign() {
+            var first = jsConsole.readFloat("#tb-first")
+            var second = jsConsole.readFloat("#tb-second")
+            var third = jsConsole.readFloat("#tb-third")
+            var countNegativeSigns = 0;
+
+            if (first == 0 || second == 0 || third == 0) {
+                jsConsole.writeLine("The product is 0!")
+            }
+            else {
+                if (first < 0) {
+                    countNegativeSigns++;
+                }
+                if (second < 0) {
+                    countNegativeSigns++;
+                }
+                if (third < 0) {
+                    countNegativeSigns++
+                }
+                if (countNegativeSigns % 2 == 0) {
+                    jsConsole.writeLine("The product sign is +")
+                }
+                else {
+                    jsConsole.writeLine("The product sign is -")
+                }
+            }
+        }
+
+
+    </script>
+</body>
+</html>

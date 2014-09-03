@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="BinarySearch()">BinarySearch</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function BinarySearch() {
+            var arr = [1, 2, 3, 4, 9, 10, 14, 17, 22, 34, 59, 88, 99]
+            var start = 0;
+            var end = arr.length - 1;
+            var key = 17;
+            var found = false;
+            var mid, index;
+
+            while (!found && start <= end) {
+                mid = parseInt((start + end) / 2);
+                if (arr[mid]==key) {
+                    index = mid;
+                    found = true;
+                }
+                else if (arr[mid]< key) {
+                    start = mid + 1;
+                }
+                else {
+                    end = mid - 1;
+                }
+            }
+            jsConsole.writeLine("The index of "+ key + " is " + index);
+        }
+    </script>
+</body>
+</html>

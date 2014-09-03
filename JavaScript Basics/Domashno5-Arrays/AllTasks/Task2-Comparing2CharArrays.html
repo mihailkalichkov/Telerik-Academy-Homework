@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="CompareArray()">Compare arrays</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        jsConsole.writeLine("Array 1 is first - " + CompareArray())
+
+        function CompareArray() {
+            var arr1 = ['T', 'e', 'l', 'e', 'r']
+            var arr2 = ['T', 'e', 'l', 'e', 'q']
+
+            for (var i = 0; i < arr1.length; i++) {
+                if (arr1[i]<arr2[i]) {
+                    return true ;
+                }
+                if (arr1[i] > arr2[i]) {
+                    return false;
+                }
+            }
+            
+
+        }
+    </script>
+</body>
+</html>

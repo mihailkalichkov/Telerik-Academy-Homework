@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter a</label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">Enter b</label>
+            <input type="text" id="tb-second" />
+            <label for="tb-third">Enter c</label>
+            <input type="text" id="tb-third" />
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="FindRoots()">Find roots</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function FindRoots() {
+            var a = jsConsole.readFloat("#tb-first")
+            var b = jsConsole.readFloat("#tb-second")
+            var c = jsConsole.readFloat("#tb-third")
+            var determinant = b * b - 4 * a * c;
+            var x1, x2;
+
+            if (determinant<0) {
+                jsConsole.writeLine("No real roots!")
+            }
+            if (determinant==0) {
+                x1 = (-b) / (2 * a);
+                jsConsole.writeLine("One real root : x = "+ x1)
+            }
+            if (determinant>0) {
+                x1 = (-b + Math.sqrt(determinant)) / (2 * a);
+                x2 = (-b - Math.sqrt(determinant)) / (2 * a);
+                jsConsole.writeLine("Two real roots : x1 = " + x1 + " , x2 = " + x2);
+            }
+        }
+    </script>
+</body>
+</html>

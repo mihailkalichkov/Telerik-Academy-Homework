@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">width </label>
+            <input type="text" id="tb-first" />
+            <label for="tb-second">height </label>
+            <input type="text" id="tb-second" />
+        </div>
+        <div id="inputbutton">
+            <a href="#" onclick="RectangleArea()">Area:</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function RectangleArea() {
+            var width = jsConsole.readFloat("#tb-first");
+            var heigth = jsConsole.readFloat("#tb-second");
+            
+            jsConsole.writeLine(width +"*" + heigth + "= " +width*heigth);
+            
+        }
+    </script>
+</body>
+</html>

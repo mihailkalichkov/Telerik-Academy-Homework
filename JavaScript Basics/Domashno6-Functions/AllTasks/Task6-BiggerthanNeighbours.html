@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter a position:</label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div>
+            Given array is: [4, 5, 4, 7, 9, 44, 9, 6, 6, 55, 4, 8, 7, 56, 1, 9, 6, 4]
+        </div>
+        <div class="inputbutton">
+            <a href="#" onclick="IsNumberinArray()">The element is bigger than neighbours:</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function IsNumberinArray() {
+            var position = jsConsole.readInteger("#tb-first")
+            var arr = [4, 5, 4, 7, 9, 44, 9, 6, 6, 55, 4, 8, 7, 56, 1, 9, 6, 4]
+
+            if (position >= arr.length - 1 || arr[position] == 0) {
+                jsConsole.writeLine(false)
+            }
+            if (arr[position] > arr[position - 1] && arr[position] > arr[position + 1]) {
+                jsConsole.writeLine(true);
+            }
+            else {
+                jsConsole.writeLine(false);
+            }
+        }
+    </script>
+</body>
+</html>

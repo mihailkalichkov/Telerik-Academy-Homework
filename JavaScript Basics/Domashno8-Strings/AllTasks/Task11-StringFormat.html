@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>11. String format</title>
+    <link href="styles/js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <label for="tb-text">Enter strings to format:  </label>
+    <input style="width:300px;" type="text" id="tb-text" />
+    <a href="#" onclick="onBtnClick()">Format!</a>
+    <div id="js-console">
+    </div>
+    <script src="js-console.js">
+
+    </script>
+    <script>
+        function onBtnClick() {
+            var txt = jsConsole.read("#tb-text");
+            var format = txt.substr(0, txt.indexOf("\"", 1) + 1);
+            var values = txt.substring(txt.indexOf("\"", 1) + 2, txt.length);
+            var strings = values.split(",");
+            var str = stringFormat(format, strings);
+            jsConsole.writeLine("str = " + str + ";");
+        }
+        function stringFormat(output, strings) {
+            var firstIndex = output.indexOf("{");
+            var secondIndex = output.indexOf("}");
+            for (var i = 0; i < strings.length; i++) {
+                var place = output[output.indexOf("{") + 1];
+                var regexp = "{" + place + "}";
+                while (output.indexOf(regexp) != -1) {
+                    if (strings[i].indexOf("\"") != -1) {
+                        output = output.replace(regexp, strings[i].substring(1, strings[i].length - 1));
+                    }
+                    else {
+                        output = output.replace(regexp, strings[i]);
+                    }
+                }
+                firstIndex = output.indexOf("{");
+                secondIndex = output.indexOf("}");
+            }
+            return output;
+        }
+    </script>
+</body>
+</html>

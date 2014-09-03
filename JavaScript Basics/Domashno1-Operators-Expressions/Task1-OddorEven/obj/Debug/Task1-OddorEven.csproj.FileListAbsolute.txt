@@ -1,0 +1,6 @@
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\bin\Task1-OddorEven.dll.config
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\bin\Task1-OddorEven.dll
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\bin\Task1-OddorEven.pdb
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\obj\Debug\Task1-OddorEven.csprojResolveAssemblyReference.cache
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\obj\Debug\Task1-OddorEven.dll
+C:\Telerik\JS1\Domashni\Domashno1-Operators-Expressions\Task1-OddorEven\obj\Debug\Task1-OddorEven.pdb

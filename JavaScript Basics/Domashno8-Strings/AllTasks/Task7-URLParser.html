@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        URLParser();
+        function URLParser() {
+            var url = "http://www.devbg.org/forum/index.php"
+            var protocol = url.substring(0, url.indexOf(":"));
+            var server = url.substring(url.indexOf(":") + 3, url.indexOf("/", url.indexOf(":") + 3));
+            var resource = url.substr(url.indexOf("/", url.indexOf(":") + 3) + 1)
+            var URLJSON = { "Protocol": protocol, "Server": server, "Resource": resource };
+            jsConsole.writeLine("Protocol :" + URLJSON.Protocol);
+            jsConsole.writeLine("Server :" + URLJSON.Server);
+            jsConsole.writeLine("Resource :" + URLJSON.Resource);
+        }
+    </script>
+</body>
+</html>

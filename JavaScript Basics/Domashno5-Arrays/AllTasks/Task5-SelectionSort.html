@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="inputbutton">
+            <a href="#" onclick="SortArray()">Sort array</a>
+        </div>
+    </div>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        function SortArray() {
+            var arr = [7, 3, 0, -45, -2, 85, 4]
+            var interim1, interim2, i, j;
+
+            for (i = 0; i < arr.length; i++) {
+                interim1 = i;
+                for (j = i+1; j < arr.length; j++) {
+                    if (arr[j] < arr[interim1]) {
+                        interim1 = j;
+                    }
+                }
+                interim2=arr[interim1]
+                arr[interim1] = arr[i];
+                arr[i] = interim2;;
+            }
+           jsConsole.write(arr)
+        }
+    </script>
+</body>
+</html>

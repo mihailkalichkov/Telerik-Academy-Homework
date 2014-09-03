@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="js-console"></div>
+    <script src="js-console.js"></script>
+    <script>
+        RemoveWhiteSpaces()
+        
+        function RemoveWhiteSpaces() {
+            var input = "We are living in an yellow submarine. We don't have anything else. Inside the submarine is very tight. So we are drinking all the day. We will move out of it in 5 days.";
+            var newSybol = "&nbsp";
+            var text="";
+
+            for (var i = 0; i < input.length; i++) {
+                if (input[i] == " ") {
+                    text += newSybol;
+                }
+                else {
+                    text += input[i];
+                }
+            }
+            jsConsole.writeLine(text)
+        }
+    </script>
+</body>
+</html>

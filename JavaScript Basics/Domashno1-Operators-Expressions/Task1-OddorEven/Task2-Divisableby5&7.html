@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link href="js-console.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="input">
+        <div class="input">
+            <label for="tb-first">Enter number: </label>
+            <input type="text" id="tb-first" />
+        </div>
+        <div id="inputbutton">
+            <a href="#" onclick="Divisionby5and7()">Is the number divisable by 5 & 7</a>
+        </div>
+    </div>
+        <div id="js-console"></div>
+        <script src="js-console.js"></script>
+    <script>
+        function Divisionby5and7() {
+            var number = jsConsole.readFloat("#tb-first");
+            var Divisableby5and7 = false;            
+            if (number % 35 == 0) {
+                Divisableby5and7= true;
+            }
+            jsConsole.writeLine(Divisableby5and7);
+        }
+
+
+
+    </script>
+</body>
+</html>
