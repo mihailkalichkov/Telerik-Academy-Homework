@@ -1,0 +1,63 @@
+CREATE TABLE Logs(
+Id int NOT NULL IDENTITY,
+LogDate datetime,
+MsgText nvarchar(300),
+CONSTRAINT PK_Logs_ID PRIMARY KEY (Id)
+)
+
+GO
+
+CREATE PROC usp_AddTenMillionLogs
+AS
+DECLARE @counter int
+SET @counter = 1;
+WHILE(@counter <10000000)
+BEGIN
+	DECLARE @Date datetime
+		SET @Date =
+		DATEADD(month, CONVERT(varbinary, newid())%(50*12),getdate())
+	DECLARE @Text nvarchar(100) =
+		'Text' + CONVERT(nvarchar(100), @counter) + ': ' + CONVERT(nvarchar(100), newid())
+		INSERT INTO Logs (LogDate,MsgText)
+		VALUES(@Date, @Text)
+		SET @counter = @counter + 1;
+END
+
+--stopped it after 55 minutes with 7 million logs
+
+EXEC usp_AddTenMillionLogs
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS;
+
+--Task 1
+
+SELECT l.LogDate
+FROM Logs l
+WHERE YEAR(l.LogDate) <2012 AND YEAR(l.LogDate) > 2001
+
+--with cache 3 seconds
+--without cache 5 seconds
+
+--Task 2
+CREATE INDEX IDX_Logs_LogDate ON Logs(LogDate)
+--created indexes for 39 seconds
+
+CHECKPOINT; DBCC DROPCLEANBUFFERS;
+SELECT l.LogDate
+FROM Logs l
+WHERE YEAR(l.LogDate) <2012 AND YEAR(l.LogDate) > 2001
+
+--after cleaning cache the search performed for 6 seconds?!
+DROP INDEX Logs.IDX_Logs_LogDate
+
+--Task 3
+
+CREATE FULLTEXT CATALOG LogsFullTextCatalog WITH ACCENT_SENSITIVITY = OFF AS DEFAULT;
+CREATE FULLTEXT INDEX ON Logs(MsgText) KEY INDEX PK_ExampleLogs ON LogsFullTextCatalog WITH CHANGE_TRACKING AUTO;
+
+SELECT (*)
+FROM Logs l
+WHERE CONTAINS(l.MsgText, '8')
+
+--without cache 3 seconds
+--with cache 1 second
