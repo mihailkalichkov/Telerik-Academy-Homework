@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1-Slides", "Task1-Slides\Task1-Slides.csproj", "{122A44C0-3259-4EBA-9604-F4DC2824BCF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2-InsertElement", "Task2-InsertElement\Task2-InsertElement.csproj", "{2B925418-A3CB-4EBA-94EE-1590EE135FE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3-ArrayOfStudents", "Task3-ArrayOfStudents\Task3-ArrayOfStudents.csproj", "{764E4629-411F-4DB0-8EA7-D05811874648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4-ChangeBackground", "Task4-ChangeBackground\Task4-ChangeBackground.csproj", "{FE2A66AB-6953-44DE-AB4E-FB3E5150C695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122A44C0-3259-4EBA-9604-F4DC2824BCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122A44C0-3259-4EBA-9604-F4DC2824BCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122A44C0-3259-4EBA-9604-F4DC2824BCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122A44C0-3259-4EBA-9604-F4DC2824BCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B925418-A3CB-4EBA-94EE-1590EE135FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B925418-A3CB-4EBA-94EE-1590EE135FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B925418-A3CB-4EBA-94EE-1590EE135FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B925418-A3CB-4EBA-94EE-1590EE135FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{764E4629-411F-4DB0-8EA7-D05811874648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{764E4629-411F-4DB0-8EA7-D05811874648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{764E4629-411F-4DB0-8EA7-D05811874648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{764E4629-411F-4DB0-8EA7-D05811874648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2A66AB-6953-44DE-AB4E-FB3E5150C695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2A66AB-6953-44DE-AB4E-FB3E5150C695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2A66AB-6953-44DE-AB4E-FB3E5150C695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2A66AB-6953-44DE-AB4E-FB3E5150C695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
