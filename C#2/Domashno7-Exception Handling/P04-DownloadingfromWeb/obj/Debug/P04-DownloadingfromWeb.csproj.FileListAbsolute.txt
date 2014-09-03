@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\bin\Debug\P04-DownloadingfromWeb.exe.config
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\bin\Debug\P04-DownloadingfromWeb.exe
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\bin\Debug\P04-DownloadingfromWeb.pdb
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\obj\Debug\P04-DownloadingfromWeb.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\obj\Debug\P04-DownloadingfromWeb.exe
+C:\Telerik\C# 2\Domashni\Domashno7-Exception Handling\P04-DownloadingfromWeb\obj\Debug\P04-DownloadingfromWeb.pdb

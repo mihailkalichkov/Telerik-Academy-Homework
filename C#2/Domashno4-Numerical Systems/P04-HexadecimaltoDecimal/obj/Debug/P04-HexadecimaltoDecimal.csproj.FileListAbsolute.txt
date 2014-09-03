@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\bin\Debug\P04-HexadecimaltoDecimal.exe.config
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\bin\Debug\P04-HexadecimaltoDecimal.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\bin\Debug\P04-HexadecimaltoDecimal.pdb
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\obj\Debug\P04-HexadecimaltoDecimal.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\obj\Debug\P04-HexadecimaltoDecimal.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P04-HexadecimaltoDecimal\obj\Debug\P04-HexadecimaltoDecimal.pdb

@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P25-ExtractingTitleandBodyfromHTML\bin\Debug\P25-ExtractingTitleandBodyfromHTML.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P25-ExtractingTitleandBodyfromHTML\bin\Debug\P25-ExtractingTitleandBodyfromHTML.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P25-ExtractingTitleandBodyfromHTML\bin\Debug\P25-ExtractingTitleandBodyfromHTML.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P25-ExtractingTitleandBodyfromHTML\obj\Debug\P25-ExtractingTitleandBodyfromHTML.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P25-ExtractingTitleandBodyfromHTML\obj\Debug\P25-ExtractingTitleandBodyfromHTML.pdb

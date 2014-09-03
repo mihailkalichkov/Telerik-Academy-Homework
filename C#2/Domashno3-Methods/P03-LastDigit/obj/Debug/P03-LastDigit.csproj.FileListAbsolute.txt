@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P03-LastDigit\bin\Debug\P03-LastDigit.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P03-LastDigit\bin\Debug\P03-LastDigit.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P03-LastDigit\bin\Debug\P03-LastDigit.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P03-LastDigit\obj\Debug\P03-LastDigit.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P03-LastDigit\obj\Debug\P03-LastDigit.pdb

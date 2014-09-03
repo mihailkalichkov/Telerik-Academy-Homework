@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\bin\Debug\P05-BiggestSuminMatrix.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\obj\Debug\P05-BiggestSuminMatrix.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\bin\Debug\P05-BiggestSuminMatrix.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\bin\Debug\P05-BiggestSuminMatrix.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\obj\Debug\P05-BiggestSuminMatrix.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P05-BiggestSuminMatrix\obj\Debug\P05-BiggestSuminMatrix.pdb

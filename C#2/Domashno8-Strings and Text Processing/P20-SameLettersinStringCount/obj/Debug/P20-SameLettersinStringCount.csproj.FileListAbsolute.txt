@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-SameLettersinStringCount\bin\Debug\P20-SameLettersinStringCount.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-SameLettersinStringCount\bin\Debug\P20-SameLettersinStringCount.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-SameLettersinStringCount\bin\Debug\P20-SameLettersinStringCount.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-SameLettersinStringCount\obj\Debug\P20-SameLettersinStringCount.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-SameLettersinStringCount\obj\Debug\P20-SameLettersinStringCount.pdb

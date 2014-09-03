@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P05-IsGivenIndexinArrayBiggerthanNeighbours\bin\Debug\P05-IsGivenIndexinArrayBiggerthanNeighbours.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P05-IsGivenIndexinArrayBiggerthanNeighbours\bin\Debug\P05-IsGivenIndexinArrayBiggerthanNeighbours.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P05-IsGivenIndexinArrayBiggerthanNeighbours\bin\Debug\P05-IsGivenIndexinArrayBiggerthanNeighbours.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P05-IsGivenIndexinArrayBiggerthanNeighbours\obj\Debug\P05-IsGivenIndexinArrayBiggerthanNeighbours.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P05-IsGivenIndexinArrayBiggerthanNeighbours\obj\Debug\P05-IsGivenIndexinArrayBiggerthanNeighbours.pdb

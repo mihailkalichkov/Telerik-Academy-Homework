@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\bin\Debug\Task04-LongestSubsequenceOfEqualNumbers.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\obj\Debug\Task04-LongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\bin\Debug\Task04-LongestSubsequenceOfEqualNumbers.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\bin\Debug\Task04-LongestSubsequenceOfEqualNumbers.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\obj\Debug\Task04-LongestSubsequenceOfEqualNumbers.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task04-LongestSubsequenceOfEqualNumbers\obj\Debug\Task04-LongestSubsequenceOfEqualNumbers.pdb

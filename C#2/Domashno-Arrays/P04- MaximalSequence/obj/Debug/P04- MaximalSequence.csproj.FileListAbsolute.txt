@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\bin\Debug\P04- MaximalSequence.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\bin\Debug\P04- MaximalSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\bin\Debug\P04- MaximalSequence.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\obj\Debug\P04- MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\obj\Debug\P04- MaximalSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P04- MaximalSequence\obj\Debug\P04- MaximalSequence.pdb

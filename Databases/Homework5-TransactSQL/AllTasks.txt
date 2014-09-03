@@ -1,0 +1,113 @@
+Disclaimer!!! The creates apparently create random results for the IDs so your results may vary.
+
+Task 1 Create a database with two tables: Persons(Id(PK), FirstName,
+LastName, SSN) and Accounts(Id(PK), PersonId(FK), Balance). Insert
+few records for testing. Write a stored procedure that selects the full names of all persons.
+
+CREATE TABLE Persons
+(
+PersonID int
+IDENTITY(1, 1)
+PRIMARY KEY CLUSTERED,
+FirstName nvarchar(20),
+LastName nvarchar(20),
+SSN nvarchar(10)
+CONSTRAINT SSN CHECK (LEN(SSN) = 10)
+)
+
+CREATE TABLE Accounts
+(
+AccountID int
+IDENTITY(1, 1)
+PRIMARY KEY CLUSTERED,
+PersonID int
+FOREIGN KEY REFERENCES Persons(PersonID),
+Balance money
+)
+
+INSERT INTO Persons
+VALUES('Pesho', 'Peshev', '1111111111a'),
+('Mariika', 'Marieva', '222222222a')
+
+INSERT INTO Accounts
+VALUES(3, 2.50),
+(4, 50.21)
+GO
+
+CREATE PROCEDURE dbo.uspPersonsFullName
+AS
+SELECT FirstName + ' ' + LastName
+FROM Persons
+GO
+
+EXEC uspPersonsFullName
+
+Task 2 Create a stored procedure that accepts a number as a parameter
+and returns all persons who have more money in their accounts than the supplied number.
+
+CREATE PROCEDURE dbo.uspReturnPersonswithBalanceHigherthan @balance money
+AS
+SELECT *
+FROM Persons p
+JOIN Accounts a
+ON p.PersonID = a.PersonID
+WHERE a.Balance > @balance
+GO
+
+EXEC dbo.uspReturnPersonswithBalanceHigherthan 10
+
+Task 3 Create a function that accepts as parameters – sum, yearly
+interest rate and number of months. It should calculate and return the new sum.
+Write a SELECT to test whether the function works as expected.
+
+CREATE PROCEDURE dbo.uspMontlyDeposit @sum money,
+@yearlyInterest float, @months int
+AS
+SELECT @sum*@yearlyInterest*@months/12 + @sum
+
+EXEC dbo.uspMontlyDeposit 100, 1.10, 1
+
+Task 4 Create a stored procedure that uses the function from the previous
+example to give an interest to a person's account for one month. It should
+take the AccountId and the interest rate as parameters.
+
+CREATE PROCEDURE dbo.uspMontlyInterest @accountID int, @interest float
+AS
+DECLARE @accountBalance money
+SELECT @accountBalance = a.Balance
+FROM Accounts a
+WHERE @accountID = a.AccountID
+
+EXEC dbo.uspMontlyDeposit @accountBalance,
+@interest, 1
+
+EXEC dbo.uspMontlyInterest 10, 1.10
+
+Task 5 Add two more stored procedures WithdrawMoney( AccountId, money)
+and DepositMoney (AccountId, money) that operate in transactions.
+
+CREATE PROCEDURE dbo.uspWithdrawMoney @accountID int, @money money
+AS
+BEGIN TRAN
+UPDATE Accounts
+SET Balance -=@money
+WHERE AccountID = @accountID
+COMMIT
+
+CREATE PROCEDURE dbo.uspDepositMoney @accountID int, @money money
+AS
+BEGIN TRAN
+UPDATE Accounts
+SET Balance += @money
+WHERE AccountID = @accountID
+COMMIT
+
+EXEC dbo.uspWithdrawMoney 2, 10
+EXEC dbo.uspDepositMoney 1, 20
+
+
+
+
+
+
+

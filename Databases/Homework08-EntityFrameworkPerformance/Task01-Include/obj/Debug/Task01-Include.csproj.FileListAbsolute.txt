@@ -1,0 +1,10 @@
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\Task01-Include.exe.config
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\Task01-Include.exe
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\Task01-Include.pdb
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\EntityFramework.dll
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\EntityFramework.SqlServer.dll
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\EntityFramework.xml
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\bin\Debug\EntityFramework.SqlServer.xml
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\obj\Debug\Task01-Include.csprojResolveAssemblyReference.cache
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\obj\Debug\Task01-Include.exe
+C:\Telerik\Databases\Homework\Homework08-EntityFrameworkPerformance\Task01-Include\obj\Debug\Task01-Include.pdb

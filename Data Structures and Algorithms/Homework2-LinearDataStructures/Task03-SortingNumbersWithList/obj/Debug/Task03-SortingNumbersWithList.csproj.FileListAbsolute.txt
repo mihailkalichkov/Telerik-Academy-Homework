@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\bin\Debug\Task03-SortingNumbersWithList.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\bin\Debug\Task03-SortingNumbersWithList.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\bin\Debug\Task03-SortingNumbersWithList.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\obj\Debug\Task03-SortingNumbersWithList.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\obj\Debug\Task03-SortingNumbersWithList.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task03-SortingNumbersWithList\obj\Debug\Task03-SortingNumbersWithList.csprojResolveAssemblyReference.cache

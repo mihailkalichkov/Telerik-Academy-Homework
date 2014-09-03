@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\bin\Debug\P06-FirstIndexThatisBigger.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\bin\Debug\P06-FirstIndexThatisBigger.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\bin\Debug\P06-FirstIndexThatisBigger.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\obj\Debug\P06-FirstIndexThatisBigger.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\obj\Debug\P06-FirstIndexThatisBigger.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P06-FirstIndexThatisBigger\obj\Debug\P06-FirstIndexThatisBigger.csprojResolveAssemblyReference.cache

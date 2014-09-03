@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\bin\Debug\Task02-ReversingSequenceOfNumbersWithStack.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\bin\Debug\Task02-ReversingSequenceOfNumbersWithStack.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\bin\Debug\Task02-ReversingSequenceOfNumbersWithStack.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\obj\Debug\Task02-ReversingSequenceOfNumbersWithStack.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\obj\Debug\Task02-ReversingSequenceOfNumbersWithStack.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task02-ReversingSequenceOfNumbersWithStack\obj\Debug\Task02-ReversingSequenceOfNumbersWithStack.pdb

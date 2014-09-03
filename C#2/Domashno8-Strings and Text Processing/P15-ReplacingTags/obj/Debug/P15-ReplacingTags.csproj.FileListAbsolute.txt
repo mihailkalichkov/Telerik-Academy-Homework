@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\bin\Debug\P15-ReplacingTags.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\bin\Debug\P15-ReplacingTags.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\bin\Debug\P15-ReplacingTags.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\obj\Debug\P15-ReplacingTags.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\obj\Debug\P15-ReplacingTags.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P15-ReplacingTags\obj\Debug\P15-ReplacingTags.pdb

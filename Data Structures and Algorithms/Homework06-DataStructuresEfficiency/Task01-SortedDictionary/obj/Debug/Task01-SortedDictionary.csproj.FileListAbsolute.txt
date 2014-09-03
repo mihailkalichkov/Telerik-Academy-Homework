@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\bin\Debug\Task01-SortedDictionary.exe.config
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\bin\Debug\Task01-SortedDictionary.exe
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\bin\Debug\Task01-SortedDictionary.pdb
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\obj\Debug\Task01-SortedDictionary.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\obj\Debug\Task01-SortedDictionary.exe
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task01-SortedDictionary\obj\Debug\Task01-SortedDictionary.pdb

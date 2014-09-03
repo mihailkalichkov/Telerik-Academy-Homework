@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P08-MaximalSum\bin\Debug\P08-MaximalSum.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P08-MaximalSum\bin\Debug\P08-MaximalSum.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P08-MaximalSum\bin\Debug\P08-MaximalSum.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P08-MaximalSum\obj\Debug\P08-MaximalSum.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P08-MaximalSum\obj\Debug\P08-MaximalSum.pdb

@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\bin\Debug\P20-PalindromeSearch.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\bin\Debug\P20-PalindromeSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\bin\Debug\P20-PalindromeSearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\obj\Debug\P20-PalindromeSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\obj\Debug\P20-PalindromeSearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P20-PalindromeSearch\obj\Debug\P20-PalindromeSearch.csprojResolveAssemblyReference.cache

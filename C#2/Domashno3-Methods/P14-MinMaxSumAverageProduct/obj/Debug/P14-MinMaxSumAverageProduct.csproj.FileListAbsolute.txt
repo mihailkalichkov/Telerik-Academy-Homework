@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\bin\Debug\P14-MinMaxSumAverageProduct.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\obj\Debug\P14-MinMaxSumAverageProduct.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\bin\Debug\P14-MinMaxSumAverageProduct.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\bin\Debug\P14-MinMaxSumAverageProduct.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\obj\Debug\P14-MinMaxSumAverageProduct.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P14-MinMaxSumAverageProduct\obj\Debug\P14-MinMaxSumAverageProduct.pdb

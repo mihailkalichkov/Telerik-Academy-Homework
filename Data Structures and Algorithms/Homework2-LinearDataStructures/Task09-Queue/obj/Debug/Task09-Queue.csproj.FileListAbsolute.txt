@@ -1,0 +1,5 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task09-Queue\bin\Debug\Task09-Queue.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task09-Queue\bin\Debug\Task09-Queue.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task09-Queue\bin\Debug\Task09-Queue.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task09-Queue\obj\Debug\Task09-Queue.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task09-Queue\obj\Debug\Task09-Queue.pdb

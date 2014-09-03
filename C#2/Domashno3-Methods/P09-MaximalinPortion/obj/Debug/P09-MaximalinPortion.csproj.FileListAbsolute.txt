@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\bin\Debug\P09-MaximalinPortion.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\bin\Debug\P09-MaximalinPortion.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\bin\Debug\P09-MaximalinPortion.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\obj\Debug\P09-MaximalinPortion.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\obj\Debug\P09-MaximalinPortion.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P09-MaximalinPortion\obj\Debug\P09-MaximalinPortion.pdb

@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P14-Dictionary\bin\Debug\P14-Dictionary.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P14-Dictionary\bin\Debug\P14-Dictionary.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P14-Dictionary\bin\Debug\P14-Dictionary.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P14-Dictionary\obj\Debug\P14-Dictionary.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P14-Dictionary\obj\Debug\P14-Dictionary.pdb

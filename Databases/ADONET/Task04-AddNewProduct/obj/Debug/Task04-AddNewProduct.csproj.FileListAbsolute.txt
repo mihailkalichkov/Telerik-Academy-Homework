@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\bin\Debug\Task04-AddNewProduct.exe.config
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\bin\Debug\Task04-AddNewProduct.exe
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\bin\Debug\Task04-AddNewProduct.pdb
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\obj\Debug\Task04-AddNewProduct.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\obj\Debug\Task04-AddNewProduct.exe
+C:\Telerik\DSA\Homework\ADONET\Task04-AddNewProduct\obj\Debug\Task04-AddNewProduct.pdb

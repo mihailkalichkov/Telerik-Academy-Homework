@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P10-XMLCleanup\bin\Debug\P10-XMLCleanup.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P10-XMLCleanup\bin\Debug\P10-XMLCleanup.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P10-XMLCleanup\bin\Debug\P10-XMLCleanup.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P10-XMLCleanup\obj\Debug\P10-XMLCleanup.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P10-XMLCleanup\obj\Debug\P10-XMLCleanup.pdb

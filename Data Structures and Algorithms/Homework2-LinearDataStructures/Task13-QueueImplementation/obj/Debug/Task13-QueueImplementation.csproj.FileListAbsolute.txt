@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\bin\Debug\Task13-QueueImplementation.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\bin\Debug\Task13-QueueImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\bin\Debug\Task13-QueueImplementation.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\obj\Debug\Task13-QueueImplementation.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\obj\Debug\Task13-QueueImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task13-QueueImplementation\obj\Debug\Task13-QueueImplementation.pdb

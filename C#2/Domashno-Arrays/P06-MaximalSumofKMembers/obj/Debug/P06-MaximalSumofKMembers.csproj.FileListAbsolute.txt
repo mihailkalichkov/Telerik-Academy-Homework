@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\bin\Debug\P06-MaximalSumofKMembers.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\bin\Debug\P06-MaximalSumofKMembers.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\bin\Debug\P06-MaximalSumofKMembers.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\obj\Debug\P06-MaximalSumofKMembers.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\obj\Debug\P06-MaximalSumofKMembers.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P06-MaximalSumofKMembers\obj\Debug\P06-MaximalSumofKMembers.csprojResolveAssemblyReference.cache

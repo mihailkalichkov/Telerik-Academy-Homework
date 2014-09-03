@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P16-DistancebetweenDates\bin\Debug\P16-DistancebetweenDates.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P16-DistancebetweenDates\bin\Debug\P16-DistancebetweenDates.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P16-DistancebetweenDates\bin\Debug\P16-DistancebetweenDates.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P16-DistancebetweenDates\obj\Debug\P16-DistancebetweenDates.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P16-DistancebetweenDates\obj\Debug\P16-DistancebetweenDates.pdb

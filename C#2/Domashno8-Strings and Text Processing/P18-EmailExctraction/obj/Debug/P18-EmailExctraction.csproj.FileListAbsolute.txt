@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P18-EmailExctraction\bin\Debug\P18-EmailExctraction.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P18-EmailExctraction\bin\Debug\P18-EmailExctraction.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P18-EmailExctraction\bin\Debug\P18-EmailExctraction.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P18-EmailExctraction\obj\Debug\P18-EmailExctraction.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P18-EmailExctraction\obj\Debug\P18-EmailExctraction.pdb

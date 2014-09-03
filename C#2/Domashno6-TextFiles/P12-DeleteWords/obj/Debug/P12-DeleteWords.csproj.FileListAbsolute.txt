@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P12-DeleteWords\bin\Debug\P12-DeleteWords.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P12-DeleteWords\bin\Debug\P12-DeleteWords.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P12-DeleteWords\bin\Debug\P12-DeleteWords.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P12-DeleteWords\obj\Debug\P12-DeleteWords.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P12-DeleteWords\obj\Debug\P12-DeleteWords.pdb

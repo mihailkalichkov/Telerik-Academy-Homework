@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P09-ReplaceForbiddenWords\bin\Debug\P09-ReplaceForbiddenWords.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P09-ReplaceForbiddenWords\bin\Debug\P09-ReplaceForbiddenWords.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P09-ReplaceForbiddenWords\bin\Debug\P09-ReplaceForbiddenWords.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P09-ReplaceForbiddenWords\obj\Debug\P09-ReplaceForbiddenWords.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P09-ReplaceForbiddenWords\obj\Debug\P09-ReplaceForbiddenWords.pdb

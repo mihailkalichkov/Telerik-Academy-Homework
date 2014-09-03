@@ -1,0 +1,1 @@
+C:\Telerik\Databases\Homework\Homework7-EntityFramework-CodeFirst\StudentSystem.ConsoleClient\bin\Debug\StudentSystem.ConsoleClient.exe.config

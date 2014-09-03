@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P10-ReplacewithUnicode\bin\Debug\P10-ReplacewithUnicode.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P10-ReplacewithUnicode\bin\Debug\P10-ReplacewithUnicode.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P10-ReplacewithUnicode\bin\Debug\P10-ReplacewithUnicode.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P10-ReplacewithUnicode\obj\Debug\P10-ReplacewithUnicode.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P10-ReplacewithUnicode\obj\Debug\P10-ReplacewithUnicode.pdb

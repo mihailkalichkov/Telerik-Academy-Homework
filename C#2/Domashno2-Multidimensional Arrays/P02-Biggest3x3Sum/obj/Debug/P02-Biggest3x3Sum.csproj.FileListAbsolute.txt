@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\bin\Debug\P02-Biggest3x3Sum.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\bin\Debug\P02-Biggest3x3Sum.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\bin\Debug\P02-Biggest3x3Sum.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\obj\Debug\P02-Biggest3x3Sum.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\obj\Debug\P02-Biggest3x3Sum.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P02-Biggest3x3Sum\obj\Debug\P02-Biggest3x3Sum.pdb

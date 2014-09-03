@@ -1,0 +1,9 @@
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\bin\Debug\P01-Allocatingx5.exe.config
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\bin\Debug\P01-Allocatingx5.exe
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\bin\Debug\P01-Allocatingx5.pdb
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\obj\Debug\P01-Allocatingx5.csprojResolveAssemblyReference.cache
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\obj\Debug\P01-Allocatingx5.exe
+C:\Telerik\Domashno-Arrays\P01-Allocatingx5\obj\Debug\P01-Allocatingx5.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P01-Allocatingx5\bin\Debug\P01-Allocatingx5.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P01-Allocatingx5\obj\Debug\P01-Allocatingx5.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P01-Allocatingx5\obj\Debug\P01-Allocatingx5.pdb

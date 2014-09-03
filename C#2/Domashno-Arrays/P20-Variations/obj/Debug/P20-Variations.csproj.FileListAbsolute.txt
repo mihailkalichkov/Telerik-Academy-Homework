@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\bin\Debug\P20-Variations.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\obj\Debug\P20-Variations.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\bin\Debug\P20-Variations.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\bin\Debug\P20-Variations.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\obj\Debug\P20-Variations.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P20-Variations\obj\Debug\P20-Variations.pdb

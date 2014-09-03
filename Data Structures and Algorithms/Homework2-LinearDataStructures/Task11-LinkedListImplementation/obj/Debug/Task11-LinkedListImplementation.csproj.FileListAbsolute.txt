@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\bin\Debug\Task11-LinkedListImplementation.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\bin\Debug\Task11-LinkedListImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\bin\Debug\Task11-LinkedListImplementation.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\obj\Debug\Task11-LinkedListImplementation.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\obj\Debug\Task11-LinkedListImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task11-LinkedListImplementation\obj\Debug\Task11-LinkedListImplementation.pdb

@@ -1,0 +1,1 @@
+C:\Telerik\Databases\Homework\Homework6-EntityFramework-Basics\Users.Client\bin\Debug\Users.Client.exe.config

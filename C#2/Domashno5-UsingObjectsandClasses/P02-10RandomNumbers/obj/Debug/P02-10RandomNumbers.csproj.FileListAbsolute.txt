@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P02-10RandomNumbers\bin\Debug\P02-10RandomNumbers.exe.config
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P02-10RandomNumbers\bin\Debug\P02-10RandomNumbers.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P02-10RandomNumbers\bin\Debug\P02-10RandomNumbers.pdb
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P02-10RandomNumbers\obj\Debug\P02-10RandomNumbers.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P02-10RandomNumbers\obj\Debug\P02-10RandomNumbers.pdb

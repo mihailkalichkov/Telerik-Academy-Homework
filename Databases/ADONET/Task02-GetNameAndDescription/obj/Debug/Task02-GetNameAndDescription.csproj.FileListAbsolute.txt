@@ -1,0 +1,5 @@
+C:\Telerik\DSA\Homework\ADONET\Task02-GetNameAndDescription\bin\Debug\Task02-GetNameAndDescription.exe.config
+C:\Telerik\DSA\Homework\ADONET\Task02-GetNameAndDescription\bin\Debug\Task02-GetNameAndDescription.exe
+C:\Telerik\DSA\Homework\ADONET\Task02-GetNameAndDescription\bin\Debug\Task02-GetNameAndDescription.pdb
+C:\Telerik\DSA\Homework\ADONET\Task02-GetNameAndDescription\obj\Debug\Task02-GetNameAndDescription.exe
+C:\Telerik\DSA\Homework\ADONET\Task02-GetNameAndDescription\obj\Debug\Task02-GetNameAndDescription.pdb

@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\bin\Debug\P07-FromAnytoAny.exe.config
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\bin\Debug\P07-FromAnytoAny.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\bin\Debug\P07-FromAnytoAny.pdb
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\obj\Debug\P07-FromAnytoAny.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\obj\Debug\P07-FromAnytoAny.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P07-FromAnytoAny\obj\Debug\P07-FromAnytoAny.pdb

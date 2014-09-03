@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P05-HexadecimaltoBinary\bin\Debug\P05-HexadecimaltoBinary.exe.config
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P05-HexadecimaltoBinary\bin\Debug\P05-HexadecimaltoBinary.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P05-HexadecimaltoBinary\bin\Debug\P05-HexadecimaltoBinary.pdb
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P05-HexadecimaltoBinary\obj\Debug\P05-HexadecimaltoBinary.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P05-HexadecimaltoBinary\obj\Debug\P05-HexadecimaltoBinary.pdb

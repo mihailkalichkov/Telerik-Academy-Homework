@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\bin\Debug\P04-EqualandDifferentLines.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\bin\Debug\P04-EqualandDifferentLines.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\bin\Debug\P04-EqualandDifferentLines.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\obj\Debug\P04-EqualandDifferentLines.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\obj\Debug\P04-EqualandDifferentLines.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P04-EqualandDifferentLines\obj\Debug\P04-EqualandDifferentLines.csprojResolveAssemblyReference.cache

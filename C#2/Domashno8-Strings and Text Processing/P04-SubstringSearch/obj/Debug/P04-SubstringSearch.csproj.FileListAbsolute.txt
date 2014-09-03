@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P04-SubstringSearch\bin\Debug\P04-SubstringSearch.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P04-SubstringSearch\bin\Debug\P04-SubstringSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P04-SubstringSearch\bin\Debug\P04-SubstringSearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P04-SubstringSearch\obj\Debug\P04-SubstringSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P04-SubstringSearch\obj\Debug\P04-SubstringSearch.pdb

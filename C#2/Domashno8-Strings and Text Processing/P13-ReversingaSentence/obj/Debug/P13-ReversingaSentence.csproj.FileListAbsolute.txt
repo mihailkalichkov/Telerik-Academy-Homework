@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P13-ReversingaSentence\bin\Debug\P13-ReversingaSentence.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P13-ReversingaSentence\bin\Debug\P13-ReversingaSentence.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P13-ReversingaSentence\bin\Debug\P13-ReversingaSentence.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P13-ReversingaSentence\obj\Debug\P13-ReversingaSentence.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P13-ReversingaSentence\obj\Debug\P13-ReversingaSentence.pdb

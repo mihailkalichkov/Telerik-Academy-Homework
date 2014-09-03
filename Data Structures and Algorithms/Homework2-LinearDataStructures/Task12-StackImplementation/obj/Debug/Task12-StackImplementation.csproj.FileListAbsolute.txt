@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\bin\Debug\Task12-StackImplementation.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\bin\Debug\Task12-StackImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\bin\Debug\Task12-StackImplementation.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\obj\Debug\Task12-StackImplementation.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\obj\Debug\Task12-StackImplementation.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task12-StackImplementation\obj\Debug\Task12-StackImplementation.pdb

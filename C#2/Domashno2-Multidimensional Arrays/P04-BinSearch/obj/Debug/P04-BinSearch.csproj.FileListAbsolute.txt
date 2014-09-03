@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P04-BinSearch\bin\Debug\P04-BinSearch.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P04-BinSearch\bin\Debug\P04-BinSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P04-BinSearch\bin\Debug\P04-BinSearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P04-BinSearch\obj\Debug\P04-BinSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P04-BinSearch\obj\Debug\P04-BinSearch.pdb

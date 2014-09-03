@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\bin\Debug\P07-ReplaceStartwithFinish.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\bin\Debug\P07-ReplaceStartwithFinish.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\bin\Debug\P07-ReplaceStartwithFinish.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\obj\Debug\P07-ReplaceStartwithFinish.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\obj\Debug\P07-ReplaceStartwithFinish.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P07-ReplaceStartwithFinish\obj\Debug\P07-ReplaceStartwithFinish.pdb

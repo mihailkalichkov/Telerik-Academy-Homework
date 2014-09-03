@@ -1,0 +1,9 @@
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\bin\Debug\Task01-GEtNumberOFRowsInCategories.exe.config
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\bin\Debug\Task01-GEtNumberOFRowsInCategories.exe
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\bin\Debug\Task01-GEtNumberOFRowsInCategories.pdb
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\obj\Debug\Task01-GEtNumberOFRowsInCategories.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\obj\Debug\Task01-GEtNumberOFRowsInCategories.exe
+C:\Telerik\DSA\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\obj\Debug\Task01-GEtNumberOFRowsInCategories.pdb
+C:\Telerik\Databases\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\bin\Debug\Task01-GEtNumberOFRowsInCategories.exe.config
+C:\Telerik\Databases\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\obj\Debug\Task01-GEtNumberOFRowsInCategories.exe
+C:\Telerik\Databases\Homework\ADONET\Task01-GEtNumberOFRowsInCategories\obj\Debug\Task01-GEtNumberOFRowsInCategories.pdb

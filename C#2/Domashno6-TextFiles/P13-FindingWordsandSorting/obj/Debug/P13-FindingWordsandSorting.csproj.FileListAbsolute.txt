@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\bin\Debug\P13-FindingWordsandSorting.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\bin\Debug\P13-FindingWordsandSorting.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\bin\Debug\P13-FindingWordsandSorting.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\obj\Debug\P13-FindingWordsandSorting.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\obj\Debug\P13-FindingWordsandSorting.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P13-FindingWordsandSorting\obj\Debug\P13-FindingWordsandSorting.pdb

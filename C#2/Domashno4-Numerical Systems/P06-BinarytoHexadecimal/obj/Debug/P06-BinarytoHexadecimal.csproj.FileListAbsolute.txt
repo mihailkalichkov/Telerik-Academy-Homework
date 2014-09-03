@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P06-BinarytoHexadecimal\bin\Debug\P06-BinarytoHexadecimal.exe.config
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P06-BinarytoHexadecimal\bin\Debug\P06-BinarytoHexadecimal.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P06-BinarytoHexadecimal\bin\Debug\P06-BinarytoHexadecimal.pdb
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P06-BinarytoHexadecimal\obj\Debug\P06-BinarytoHexadecimal.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P06-BinarytoHexadecimal\obj\Debug\P06-BinarytoHexadecimal.pdb

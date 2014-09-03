@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\bin\Debug\P03-Lines.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\obj\Debug\P03-Lines.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\bin\Debug\P03-Lines.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\bin\Debug\P03-Lines.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\obj\Debug\P03-Lines.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P03-Lines\obj\Debug\P03-Lines.pdb

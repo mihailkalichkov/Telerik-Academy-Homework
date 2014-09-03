@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\bin\Debug\P23-IdenticalLetters.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\obj\Debug\P23-IdenticalLetters.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\bin\Debug\P23-IdenticalLetters.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\bin\Debug\P23-IdenticalLetters.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\obj\Debug\P23-IdenticalLetters.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P23-IdenticalLetters\obj\Debug\P23-IdenticalLetters.pdb

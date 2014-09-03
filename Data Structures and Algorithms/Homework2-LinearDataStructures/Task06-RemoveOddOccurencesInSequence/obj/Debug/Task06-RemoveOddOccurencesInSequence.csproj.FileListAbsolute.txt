@@ -1,0 +1,5 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task06-RemoveOddOccurencesInSequence\bin\Debug\Task06-RemoveOddOccurencesInSequence.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task06-RemoveOddOccurencesInSequence\bin\Debug\Task06-RemoveOddOccurencesInSequence.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task06-RemoveOddOccurencesInSequence\bin\Debug\Task06-RemoveOddOccurencesInSequence.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task06-RemoveOddOccurencesInSequence\obj\Debug\Task06-RemoveOddOccurencesInSequence.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task06-RemoveOddOccurencesInSequence\obj\Debug\Task06-RemoveOddOccurencesInSequence.pdb

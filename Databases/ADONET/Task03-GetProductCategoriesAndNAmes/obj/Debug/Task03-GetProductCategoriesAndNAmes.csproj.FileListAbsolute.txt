@@ -1,0 +1,5 @@
+C:\Telerik\DSA\Homework\ADONET\Task03-GetProductCategoriesAndNAmes\bin\Debug\Task03-GetProductCategoriesAndNAmes.exe.config
+C:\Telerik\DSA\Homework\ADONET\Task03-GetProductCategoriesAndNAmes\bin\Debug\Task03-GetProductCategoriesAndNAmes.exe
+C:\Telerik\DSA\Homework\ADONET\Task03-GetProductCategoriesAndNAmes\bin\Debug\Task03-GetProductCategoriesAndNAmes.pdb
+C:\Telerik\DSA\Homework\ADONET\Task03-GetProductCategoriesAndNAmes\obj\Debug\Task03-GetProductCategoriesAndNAmes.exe
+C:\Telerik\DSA\Homework\ADONET\Task03-GetProductCategoriesAndNAmes\obj\Debug\Task03-GetProductCategoriesAndNAmes.pdb

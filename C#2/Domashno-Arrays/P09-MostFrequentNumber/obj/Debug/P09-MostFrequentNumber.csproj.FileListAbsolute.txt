@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\bin\Debug\P09-MostFrequentNumber.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\bin\Debug\P09-MostFrequentNumber.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\bin\Debug\P09-MostFrequentNumber.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\obj\Debug\P09-MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\obj\Debug\P09-MostFrequentNumber.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P09-MostFrequentNumber\obj\Debug\P09-MostFrequentNumber.pdb

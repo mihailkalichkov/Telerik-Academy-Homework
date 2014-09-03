@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P13-ReverseorAverageorSolve\bin\Debug\P13-ReverseorAverageorSolve.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P13-ReverseorAverageorSolve\bin\Debug\P13-ReverseorAverageorSolve.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P13-ReverseorAverageorSolve\bin\Debug\P13-ReverseorAverageorSolve.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P13-ReverseorAverageorSolve\obj\Debug\P13-ReverseorAverageorSolve.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P13-ReverseorAverageorSolve\obj\Debug\P13-ReverseorAverageorSolve.pdb

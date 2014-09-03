@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P04-NumberCounter\bin\Debug\P04-NumberCounter.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P04-NumberCounter\bin\Debug\P04-NumberCounter.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P04-NumberCounter\bin\Debug\P04-NumberCounter.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P04-NumberCounter\obj\Debug\P04-NumberCounter.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P04-NumberCounter\obj\Debug\P04-NumberCounter.pdb

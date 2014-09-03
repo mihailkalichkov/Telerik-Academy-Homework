@@ -1,0 +1,8 @@
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\bin\Debug\Task02-OrderedBagUsage.exe.config
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\bin\Debug\Task02-OrderedBagUsage.exe
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\bin\Debug\Task02-OrderedBagUsage.pdb
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\bin\Debug\PowerCollections.dll
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\bin\Debug\PowerCollections.xml
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\obj\Debug\Task02-OrderedBagUsage.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\obj\Debug\Task02-OrderedBagUsage.exe
+C:\Telerik\DSA\Homework\AdvancedDataStructures\Task02-OrderedBagUsage\obj\Debug\Task02-OrderedBagUsage.pdb

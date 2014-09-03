@@ -1,0 +1,31 @@
+Line 1: using System;
+Line 2: using System.Collections.Generic;
+Line 3: using System.Linq;
+Line 4: using System.Text;
+Line 5: using System.Threading.Tasks;
+Line 6: using System.IO;
+Line 7: namespace P03_Lines
+Line 8: {
+Line 9:     class Program
+Line 10:     {
+Line 11:         static void Main(string[] args)
+Line 12:         {
+Line 13: 
+Line 14:             using (StreamReader reader = new StreamReader(@"..\..\P03-Lines.cs"))
+Line 15:             {
+Line 16:               using (StreamWriter output = new StreamWriter("../../output.txt"))
+Line 17:             {
+Line 18:                          int lineNumber = 0;
+Line 19:             string line = reader.ReadLine();
+Line 20:             while (line != null)
+Line 21:             {
+Line 22:                 lineNumber++;         
+Line 23:                 output.WriteLine("Line {0}: {1}",
+Line 24:                 lineNumber, line);
+Line 25:                 line = reader.ReadLine();
+Line 26:             }
+Line 27:             }
+Line 28:             }
+Line 29:         }
+Line 30:     }
+Line 31: }

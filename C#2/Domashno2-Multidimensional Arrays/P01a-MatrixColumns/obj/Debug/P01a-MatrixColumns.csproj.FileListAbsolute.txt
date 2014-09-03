@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\bin\Debug\P01a-MatrixColumns.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\bin\Debug\P01a-MatrixColumns.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\bin\Debug\P01a-MatrixColumns.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\obj\Debug\P01a-MatrixColumns.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\obj\Debug\P01a-MatrixColumns.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01a-MatrixColumns\obj\Debug\P01a-MatrixColumns.pdb

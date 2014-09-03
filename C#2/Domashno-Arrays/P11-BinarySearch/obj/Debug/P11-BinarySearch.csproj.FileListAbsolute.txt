@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\bin\Debug\P11-BinarySearch.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\bin\Debug\P11-BinarySearch.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\bin\Debug\P11-BinarySearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\obj\Debug\P11-BinarySearch.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\obj\Debug\P11-BinarySearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P11-BinarySearch\obj\Debug\P11-BinarySearch.csprojResolveAssemblyReference.cache

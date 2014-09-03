@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P06-SumofStrings\bin\Debug\P06-SumofStrings.exe.config
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P06-SumofStrings\bin\Debug\P06-SumofStrings.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P06-SumofStrings\bin\Debug\P06-SumofStrings.pdb
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P06-SumofStrings\obj\Debug\P06-SumofStrings.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P06-SumofStrings\obj\Debug\P06-SumofStrings.pdb

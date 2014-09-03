@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\bin\Debug\P22-SameWordsinStringCount.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\bin\Debug\P22-SameWordsinStringCount.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\bin\Debug\P22-SameWordsinStringCount.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\obj\Debug\P22-SameWordsinStringCount.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\obj\Debug\P22-SameWordsinStringCount.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P22-SameWordsinStringCount\obj\Debug\P22-SameWordsinStringCount.csprojResolveAssemblyReference.cache

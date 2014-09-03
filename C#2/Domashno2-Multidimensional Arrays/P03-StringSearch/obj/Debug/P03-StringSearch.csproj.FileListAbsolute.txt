@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\bin\Debug\P03-StringSearch.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\bin\Debug\P03-StringSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\bin\Debug\P03-StringSearch.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\obj\Debug\P03-StringSearch.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\obj\Debug\P03-StringSearch.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P03-StringSearch\obj\Debug\P03-StringSearch.pdb

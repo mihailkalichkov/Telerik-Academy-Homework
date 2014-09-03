@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01b-MatrixUpDown\bin\Debug\P01b-MatrixUpDown.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01b-MatrixUpDown\bin\Debug\P01b-MatrixUpDown.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01b-MatrixUpDown\bin\Debug\P01b-MatrixUpDown.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01b-MatrixUpDown\obj\Debug\P01b-MatrixUpDown.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01b-MatrixUpDown\obj\Debug\P01b-MatrixUpDown.pdb

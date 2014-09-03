@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\bin\Debug\P19-DateExtraction.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\bin\Debug\P19-DateExtraction.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\bin\Debug\P19-DateExtraction.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\obj\Debug\P19-DateExtraction.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\obj\Debug\P19-DateExtraction.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P19-DateExtraction\obj\Debug\P19-DateExtraction.csprojResolveAssemblyReference.cache

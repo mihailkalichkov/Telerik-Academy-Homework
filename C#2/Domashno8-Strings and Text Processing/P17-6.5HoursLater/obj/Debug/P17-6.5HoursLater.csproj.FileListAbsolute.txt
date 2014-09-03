@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P17-6.5HoursLater\bin\Debug\P17-6.5HoursLater.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P17-6.5HoursLater\bin\Debug\P17-6.5HoursLater.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P17-6.5HoursLater\bin\Debug\P17-6.5HoursLater.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P17-6.5HoursLater\obj\Debug\P17-6.5HoursLater.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P17-6.5HoursLater\obj\Debug\P17-6.5HoursLater.pdb

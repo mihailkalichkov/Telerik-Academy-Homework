@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P08-ReplaceStartFinishWholeWords\bin\Debug\P08-ReplaceStartFinishWholeWords.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P08-ReplaceStartFinishWholeWords\bin\Debug\P08-ReplaceStartFinishWholeWords.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P08-ReplaceStartFinishWholeWords\bin\Debug\P08-ReplaceStartFinishWholeWords.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P08-ReplaceStartFinishWholeWords\obj\Debug\P08-ReplaceStartFinishWholeWords.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P08-ReplaceStartFinishWholeWords\obj\Debug\P08-ReplaceStartFinishWholeWords.pdb

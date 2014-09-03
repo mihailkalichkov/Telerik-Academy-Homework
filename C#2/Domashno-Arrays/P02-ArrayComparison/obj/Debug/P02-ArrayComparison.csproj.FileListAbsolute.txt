@@ -1,0 +1,9 @@
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\bin\Debug\P02-ArrayComparison.exe.config
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\obj\Debug\P02-ArrayComparison.csprojResolveAssemblyReference.cache
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\bin\Debug\P02-ArrayComparison.exe
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\bin\Debug\P02-ArrayComparison.pdb
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\obj\Debug\P02-ArrayComparison.exe
+C:\Telerik\Domashno-Arrays\P02-ArrayComparison\obj\Debug\P02-ArrayComparison.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P02-ArrayComparison\bin\Debug\P02-ArrayComparison.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P02-ArrayComparison\obj\Debug\P02-ArrayComparison.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P02-ArrayComparison\obj\Debug\P02-ArrayComparison.pdb

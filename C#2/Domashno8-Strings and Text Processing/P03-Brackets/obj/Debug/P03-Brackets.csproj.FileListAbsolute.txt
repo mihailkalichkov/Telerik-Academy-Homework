@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\bin\Debug\P03-Brackets.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\obj\Debug\P03-Brackets.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\bin\Debug\P03-Brackets.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\bin\Debug\P03-Brackets.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\obj\Debug\P03-Brackets.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P03-Brackets\obj\Debug\P03-Brackets.pdb

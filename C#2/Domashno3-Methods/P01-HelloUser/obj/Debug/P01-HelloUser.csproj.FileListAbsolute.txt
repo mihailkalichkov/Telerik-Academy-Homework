@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\bin\Debug\P01-HelloUser.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\bin\Debug\P01-HelloUser.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\bin\Debug\P01-HelloUser.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\obj\Debug\P01-HelloUser.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\obj\Debug\P01-HelloUser.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P01-HelloUser\obj\Debug\P01-HelloUser.pdb

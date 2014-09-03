@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\bin\Debug\P12-SubstractionandMultiplication.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\obj\Debug\P12-SubstractionandMultiplication.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\bin\Debug\P12-SubstractionandMultiplication.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\bin\Debug\P12-SubstractionandMultiplication.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\obj\Debug\P12-SubstractionandMultiplication.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P12-SubstractionandMultiplication\obj\Debug\P12-SubstractionandMultiplication.pdb

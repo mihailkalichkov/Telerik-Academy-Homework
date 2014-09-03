@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P05-Upcase\bin\Debug\P05-Upcase.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P05-Upcase\bin\Debug\P05-Upcase.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P05-Upcase\bin\Debug\P05-Upcase.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P05-Upcase\obj\Debug\P05-Upcase.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P05-Upcase\obj\Debug\P05-Upcase.pdb

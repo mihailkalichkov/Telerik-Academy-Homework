@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\bin\Debug\P21-Combinations.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\bin\Debug\P21-Combinations.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\bin\Debug\P21-Combinations.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\obj\Debug\P21-Combinations.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\obj\Debug\P21-Combinations.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P21-Combinations\obj\Debug\P21-Combinations.pdb

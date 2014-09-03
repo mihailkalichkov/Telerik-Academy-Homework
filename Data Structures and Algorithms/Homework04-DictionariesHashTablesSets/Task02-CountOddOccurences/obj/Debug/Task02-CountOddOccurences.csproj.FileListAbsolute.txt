@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\bin\Debug\Task02-CountOddOccurences.exe.config
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\bin\Debug\Task02-CountOddOccurences.exe
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\bin\Debug\Task02-CountOddOccurences.pdb
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\obj\Debug\Task02-CountOddOccurences.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\obj\Debug\Task02-CountOddOccurences.exe
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task02-CountOddOccurences\obj\Debug\Task02-CountOddOccurences.pdb

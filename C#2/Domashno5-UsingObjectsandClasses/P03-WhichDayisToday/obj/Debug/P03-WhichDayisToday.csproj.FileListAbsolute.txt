@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P03-WhichDayisToday\bin\Debug\P03-WhichDayisToday.exe.config
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P03-WhichDayisToday\bin\Debug\P03-WhichDayisToday.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P03-WhichDayisToday\bin\Debug\P03-WhichDayisToday.pdb
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P03-WhichDayisToday\obj\Debug\P03-WhichDayisToday.exe
+C:\Telerik\C# 2\Domashni\Domashno5-UsingObjectsandClasses\P03-WhichDayisToday\obj\Debug\P03-WhichDayisToday.pdb

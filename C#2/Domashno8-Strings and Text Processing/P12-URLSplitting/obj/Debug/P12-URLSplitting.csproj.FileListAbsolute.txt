@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\bin\Debug\P12-URLSplitting.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\bin\Debug\P12-URLSplitting.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\bin\Debug\P12-URLSplitting.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\obj\Debug\P12-URLSplitting.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\obj\Debug\P12-URLSplitting.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P12-URLSplitting\obj\Debug\P12-URLSplitting.csprojResolveAssemblyReference.cache

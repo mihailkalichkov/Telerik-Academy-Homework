@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P05-MaximalIncreasingSequence\bin\Debug\P05-MaximalIncreasingSequence.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P05-MaximalIncreasingSequence\bin\Debug\P05-MaximalIncreasingSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P05-MaximalIncreasingSequence\bin\Debug\P05-MaximalIncreasingSequence.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P05-MaximalIncreasingSequence\obj\Debug\P05-MaximalIncreasingSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P05-MaximalIncreasingSequence\obj\Debug\P05-MaximalIncreasingSequence.pdb

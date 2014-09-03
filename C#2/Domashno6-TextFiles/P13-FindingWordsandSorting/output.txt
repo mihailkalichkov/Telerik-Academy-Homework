@@ -1,0 +1,3 @@
+word: 4
+occurence: 3
+Telerik: 1

@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\bin\Debug\Task03-WordsCount.exe.config
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\bin\Debug\Task03-WordsCount.exe
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\bin\Debug\Task03-WordsCount.pdb
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\obj\Debug\Task03-WordsCount.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\obj\Debug\Task03-WordsCount.exe
+C:\Telerik\DSA\Homework\Homework04-DictionariesHashTablesSets\Task03-WordsCount\obj\Debug\Task03-WordsCount.pdb

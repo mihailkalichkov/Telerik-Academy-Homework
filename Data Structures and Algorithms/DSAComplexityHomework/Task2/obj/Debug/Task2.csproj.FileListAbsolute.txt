@@ -1,0 +1,2 @@
+C:\Telerik\JSApps\DSAComplexityHomework\Task2\bin\Debug\Task2.exe.config
+C:\Telerik\DSA\Homework\DSAComplexityHomework\Task2\bin\Debug\Task2.exe.config

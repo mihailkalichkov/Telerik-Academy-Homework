@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\bin\Debug\P01-ReadandPrint.exe.config
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\obj\Debug\P01-ReadandPrint.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\bin\Debug\P01-ReadandPrint.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\bin\Debug\P01-ReadandPrint.pdb
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\obj\Debug\P01-ReadandPrint.exe
+C:\Telerik\C# 2\Domashni\Domashno6-TextFiles\P01-ReadandPrint\obj\Debug\P01-ReadandPrint.pdb

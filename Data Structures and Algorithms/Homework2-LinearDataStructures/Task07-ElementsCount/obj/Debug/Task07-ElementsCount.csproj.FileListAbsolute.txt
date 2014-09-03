@@ -1,0 +1,5 @@
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task07-ElementsCount\bin\Debug\Task07-ElementsCount.exe.config
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task07-ElementsCount\bin\Debug\Task07-ElementsCount.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task07-ElementsCount\bin\Debug\Task07-ElementsCount.pdb
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task07-ElementsCount\obj\Debug\Task07-ElementsCount.exe
+C:\Telerik\DSA\Homework\Homework2-LinearDataStructures\Task07-ElementsCount\obj\Debug\Task07-ElementsCount.pdb

@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P10-FindingGivenSuminSequence\bin\Debug\P10-FindingGivenSuminSequence.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P10-FindingGivenSuminSequence\bin\Debug\P10-FindingGivenSuminSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P10-FindingGivenSuminSequence\bin\Debug\P10-FindingGivenSuminSequence.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P10-FindingGivenSuminSequence\obj\Debug\P10-FindingGivenSuminSequence.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P10-FindingGivenSuminSequence\obj\Debug\P10-FindingGivenSuminSequence.pdb

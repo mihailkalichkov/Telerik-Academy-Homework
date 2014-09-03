@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\bin\Debug\P01c-LowerDiagonalMatrix.exe.config
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\bin\Debug\P01c-LowerDiagonalMatrix.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\bin\Debug\P01c-LowerDiagonalMatrix.pdb
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\obj\Debug\P01c-LowerDiagonalMatrix.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\obj\Debug\P01c-LowerDiagonalMatrix.exe
+C:\Telerik\C# 2\Domashni\Domashno2-Multidimensional Arrays\P01c-LowerDiagonalMatrix\obj\Debug\P01c-LowerDiagonalMatrix.pdb

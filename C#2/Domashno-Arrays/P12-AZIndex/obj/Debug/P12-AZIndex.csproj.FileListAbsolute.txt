@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P12-AZIndex\bin\Debug\P12-AZIndex.exe.config
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P12-AZIndex\bin\Debug\P12-AZIndex.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P12-AZIndex\bin\Debug\P12-AZIndex.pdb
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P12-AZIndex\obj\Debug\P12-AZIndex.exe
+C:\Telerik\C# 2\Domashni\Domashno-Arrays\P12-AZIndex\obj\Debug\P12-AZIndex.pdb

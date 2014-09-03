@@ -1,0 +1,1 @@
+C:\Telerik\Databases\Homework\Homework6-EntityFramework-Basics\Northwind.Actions\bin\Debug\Northwind.Actions.exe.config

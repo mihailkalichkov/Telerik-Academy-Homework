@@ -1,0 +1,2 @@
+The occurence of the word occurence should be 3 exactly times. The occurence of the word word should be exactly 4 times.
+The word Telerik can be seen 1 time.

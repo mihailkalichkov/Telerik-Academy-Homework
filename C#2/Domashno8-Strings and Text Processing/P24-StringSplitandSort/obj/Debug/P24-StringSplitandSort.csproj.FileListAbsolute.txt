@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P24-StringSplitandSort\bin\Debug\P24-StringSplitandSort.exe.config
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P24-StringSplitandSort\bin\Debug\P24-StringSplitandSort.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P24-StringSplitandSort\bin\Debug\P24-StringSplitandSort.pdb
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P24-StringSplitandSort\obj\Debug\P24-StringSplitandSort.exe
+C:\Telerik\C# 2\Domashni\Domashno8-Strings and Text Processing\P24-StringSplitandSort\obj\Debug\P24-StringSplitandSort.pdb

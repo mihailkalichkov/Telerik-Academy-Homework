@@ -1,0 +1,6 @@
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\bin\Debug\Task01-Tree.exe.config
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\bin\Debug\Task01-Tree.exe
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\bin\Debug\Task01-Tree.pdb
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\obj\Debug\Task01-Tree.csprojResolveAssemblyReference.cache
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\obj\Debug\Task01-Tree.exe
+C:\Telerik\DSA\Homework\Homework03-Trees\Task01-Tree\obj\Debug\Task01-Tree.pdb

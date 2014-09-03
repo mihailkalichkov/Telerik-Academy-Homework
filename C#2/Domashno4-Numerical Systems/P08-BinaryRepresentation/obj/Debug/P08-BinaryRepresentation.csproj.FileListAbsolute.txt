@@ -1,0 +1,5 @@
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P08-BinaryRepresentation\bin\Debug\P08-BinaryRepresentation.exe.config
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P08-BinaryRepresentation\bin\Debug\P08-BinaryRepresentation.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P08-BinaryRepresentation\bin\Debug\P08-BinaryRepresentation.pdb
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P08-BinaryRepresentation\obj\Debug\P08-BinaryRepresentation.exe
+C:\Telerik\C# 2\Domashni\Domashno4-Numerical Systems\P08-BinaryRepresentation\obj\Debug\P08-BinaryRepresentation.pdb

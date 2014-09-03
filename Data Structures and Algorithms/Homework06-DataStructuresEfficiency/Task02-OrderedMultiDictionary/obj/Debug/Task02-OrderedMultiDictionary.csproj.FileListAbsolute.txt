@@ -1,0 +1,8 @@
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\bin\Debug\Task02-OrderedMultiDictionary.exe.config
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\bin\Debug\Task02-OrderedMultiDictionary.exe
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\bin\Debug\Task02-OrderedMultiDictionary.pdb
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\obj\Debug\Task02-OrderedMultiDictionary.exe
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\obj\Debug\Task02-OrderedMultiDictionary.pdb
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\bin\Debug\PowerCollections.dll
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\bin\Debug\PowerCollections.xml
+C:\Telerik\DSA\Homework\Homework06-DataStructuresEfficiency\Task02-OrderedMultiDictionary\obj\Debug\Task02-OrderedMultiDictionary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\bin\Debug\P11-AddPolinominals.exe.config
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\obj\Debug\P11-AddPolinominals.csprojResolveAssemblyReference.cache
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\bin\Debug\P11-AddPolinominals.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\bin\Debug\P11-AddPolinominals.pdb
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\obj\Debug\P11-AddPolinominals.exe
+C:\Telerik\C# 2\Domashni\Domashno3-Methods\P11-AddPolinominals\obj\Debug\P11-AddPolinominals.pdb
