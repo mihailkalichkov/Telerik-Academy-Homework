@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="students.xslt"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Austin Powers</name>
+    <sex>Yes, please</sex>
+    <birthday>01-06-1969</birthday>
+    <phone>0888888888</phone>
+    <email>powers@gmail.com</email>
+    <course>JavaScript</course>
+    <specialty>Undefined</specialty>
+    <facultyNumber>69</facultyNumber>
+    <examsTaken>
+      <exam>
+        <course>JavaScript Basics</course>
+        <tutor>Doncho</tutor>
+        <score>68</score>
+      </exam>
+      <exam>
+        <course>JavaScript UI and DOM</course>
+        <tutor>Niki</tutor>
+        <score>70</score>
+      </exam>
+    </examsTaken>
+-  </student>
+</students>
