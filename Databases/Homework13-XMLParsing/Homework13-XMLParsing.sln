@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task05-ExtractSongs", "Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task06-ExtractSOngsLINQ", "Task06-ExtractSOngsLINQ\Task06-ExtractSOngsLINQ.csproj", "{0C112383-EDBE-4F0D-9C1D-F14B39E6B855}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task07-CreateXml", "Task07-CreateXml\Task07-CreateXml.csproj", "{7E2F2E13-F4C4-41D7-AAB6-2FFE0AA46819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task08-Album", "Task08-Album\Task08-Album.csproj", "{11E46BB2-CEA2-43A7-8F50-43CFCD55E472}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{0C112383-EDBE-4F0D-9C1D-F14B39E6B855}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C112383-EDBE-4F0D-9C1D-F14B39E6B855}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C112383-EDBE-4F0D-9C1D-F14B39E6B855}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2F2E13-F4C4-41D7-AAB6-2FFE0AA46819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2F2E13-F4C4-41D7-AAB6-2FFE0AA46819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2F2E13-F4C4-41D7-AAB6-2FFE0AA46819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2F2E13-F4C4-41D7-AAB6-2FFE0AA46819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E46BB2-CEA2-43A7-8F50-43CFCD55E472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E46BB2-CEA2-43A7-8F50-43CFCD55E472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E46BB2-CEA2-43A7-8F50-43CFCD55E472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E46BB2-CEA2-43A7-8F50-43CFCD55E472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
